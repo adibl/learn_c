@@ -1,0 +1,1 @@
+cant be done because of get_string function thath also use ungetch.
