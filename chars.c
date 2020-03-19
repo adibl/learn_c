@@ -1,5 +1,5 @@
 #include <stdio.h>
-main()
+void main()
 {
     int c;
     printf("%d\n", c = getchar() != EOF);

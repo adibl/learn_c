@@ -1,0 +1,2506 @@
+;
+;
+;
+:
+:
+/*
+/*
+/*
+/*
+/* ... */
+...
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+{
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+};
+};
+};
+};
+};
+};
+};
+};
+};
+};
+};
+};
+%
+%
+•
+{0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31},
+{0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31},
+{0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31},
+{0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}
+{0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}
+{0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}
+0x or 0X ).
+100
+:%-10s:
+:%.10s:
+:%10s:
+}112
+:127
+:%-15.10s:
+:%15.10s:
+:%-15s:
+:%.15s:
+/* 1 if numeric sort */
+/* 1 if numeric sort */
+/* 1 if numeric sort */
+/* 1 if numeric sort */
+/* 1st token on line */
+25 Dec 1988
+5.10 Command-line Arguments
+5.10 Command-line Arguments
+5.10 Command-line Arguments
+5.10 Command-line Arguments
+5.11 Pointers to Functions
+5.11 Pointers to Functions
+5.11 Pointers to Functions
+5.11 Pointers to Functions
+5.12 Complicated Declarations
+5.7 Multi-dimensional Arrays
+5.7 Multi-dimensional Arrays
+5.7 Multi-dimensional Arrays
+5.7 Multi-dimensional Arrays
+5.8 Initialization of Pointer Arrays94
+5.8 Initialization of Pointer Arrays94
+5.8 Initialization of Pointer Arrays94
+5.8 Initialization of Pointer Arrays94
+5.8 Initialization of Pointer Arraysperforming the transformations are as follows:
+5.8 Initialization of Pointer Arraysperforming the transformations are as follows:
+5.8 Initialization of Pointer Arraysperforming the transformations are as follows:
+5.8 Initialization of Pointer Arraysperforming the transformations are as follows:
+5.9 Pointers vs. Multi-dimensional Arrays
+5.9 Pointers vs. Multi-dimensional Arrays
+5.9 Pointers vs. Multi-dimensional Arrays
+5.9 Pointers vs. Multi-dimensional Arrays
+6).
+6.1 Basics of Structures
+6.2 Structures and Functions
+6.3 Arrays of Structures
+6.4 Pointers to Structures
+6.5 Self-referential Structures
+7.2 Formatted Output - printf
+7.3 Variable-length Argument Lists
+7.4 Formatted Input - Scanf
+7.5 File Access
+7.6 Error Handling - Stderr and Exit133
+abbreviated to dir-dcl):102
+ABCDEF for 10, ...,15.
+above, argc is 3, and argv[0] , argv[1] , and argv[2] are "echo" , "hello," , and "world"
+above, argc is 3, and argv[0] , argv[1] , and argv[2] are "echo" , "hello," , and "world"
+above, argc is 3, and argv[0] , argv[1] , and argv[2] are "echo" , "hello," , and "world"
+above, argc is 3, and argv[0] , argv[1] , and argv[2] are "echo" , "hello," , and "world"
+accept a list of tab stops as arguments. Use the default tab settings if there are no arguments.
+accept a list of tab stops as arguments. Use the default tab settings if there are no arguments.
+accept a list of tab stops as arguments. Use the default tab settings if there are no arguments.
+accept a list of tab stops as arguments. Use the default tab settings if there are no arguments.
+accessed for some reason, the diagnostic is printed at the end of the concatenated output. That
+accessing whatever it points to (just like *s++ ); (*p->str)++ increments whatever str points
+according to this grammar. Because the grammar is recursively defined, the functions call each
+A common convention for C programs on UNIX systems is that an argument that begins with
+A common convention for C programs on UNIX systems is that an argument that begins with
+A common convention for C programs on UNIX systems is that an argument that begins with
+A common convention for C programs on UNIX systems is that an argument that begins with
+A conversion specification directs the conversion of the next input field. Normally the result is
+additionally, the standard requires that argv[argc] be a null pointer.
+additionally, the standard requires that argv[argc] be a null pointer.
+additionally, the standard requires that argv[argc] be a null pointer.
+additionally, the standard requires that argv[argc] be a null pointer.
+/* addpoints: add two points */
+address with & , and accessing its members. Copy and assignment include passing arguments to
+A final warning: the arguments to scanf and sscanf must be pointers. By far the most
+a function that processes a variable-length argument list in a portable way. Since we are mainly
+a general-purpose input collector for programs that do not have the capability of accessing files
+Allowable modes include read ( "r" ), write ( "w" ), and append ( "a" ). Some systems distinguish
+alphanumeric token stops, getword has gone one character too far. The call to ungetch
+also be initialized by an assignment.
+alternative, in this section we will present a pair of programs that convert from valid C to a
+Alternatively, we could write the printf statement as
+Alternatively, we could write the printf statement as
+Alternatively, we could write the printf statement as
+Alternatively, we could write the printf statement as
+Although truly complicated declarations rarely arise in practice, it is important to know how to
+Although we have phrased this discussion in terms of integers, by far the most frequent use of
+Although we have phrased this discussion in terms of integers, by far the most frequent use of
+Although we have phrased this discussion in terms of integers, by far the most frequent use of
+Although we have phrased this discussion in terms of integers, by far the most frequent use of
+always be distinguished by context. Furthermore, the same member names may occur in
+A member of a particular structure is referred to in an expression by a construction of the form
+a minus sign introduces an optional flag or parameter. If we choose -x (for ``except'') to signal
+a minus sign introduces an optional flag or parameter. If we choose -x (for ``except'') to signal
+a minus sign introduces an optional flag or parameter. If we choose -x (for ``except'') to signal
+a minus sign introduces an optional flag or parameter. If we choose -x (for ``except'') to signal
+• A minus sign, which specifies left adjustment of the converted argument.
+analogous to earlier ones - the definition is followed by a list of initializers enclosed in braces:
+(An alternate valid form would be **++argv .) Because [] binds tighter than * and ++ , the
+(An alternate valid form would be **++argv .) Because [] binds tighter than * and ++ , the
+(An alternate valid form would be **++argv .) Because [] binds tighter than * and ++ , the
+(An alternate valid form would be **++argv .) Because [] binds tighter than * and ++ , the
+a name. The standard header <stdarg.h> contains a set of macro definitions that define how
+An array is initialized by a list of initializers in braces; each row of a two-dimensional array is
+An array is initialized by a list of initializers in braces; each row of a two-dimensional array is
+An array is initialized by a list of initializers in braces; each row of a two-dimensional array is
+An array is initialized by a list of initializers in braces; each row of a two-dimensional array is
+An automatic structure may also be initialized by assignment or by calling a function that
+and
+and
+and a pointer to them is stored in name[i] . Since the size of the array name is not specified,
+and a pointer to them is stored in name[i] . Since the size of the array name is not specified,
+and a pointer to them is stored in name[i] . Since the size of the array name is not specified,
+and a pointer to them is stored in name[i] . Since the size of the array name is not specified,
+and exchanges until the objects are in order. The sorting algorithm is independent of the
+and exchanges until the objects are in order. The sorting algorithm is independent of the
+and exchanges until the objects are in order. The sorting algorithm is independent of the
+and exchanges until the objects are in order. The sorting algorithm is independent of the
+and is certainly enough to get started. This is particularly true if redirection is used to connect
+and non-leap years, it's easier to separate them into two rows of a two-dimensional array than
+and non-leap years, it's easier to separate them into two rows of a two-dimensional array than
+and non-leap years, it's easier to separate them into two rows of a two-dimensional array than
+and non-leap years, it's easier to separate them into two rows of a two-dimensional array than
+and putchar in <stdio.h> and tolower in <ctype.h> are often macros, thus avoiding the
+and returns other characters untouched. As we mentioned earlier, ``functions'' like getchar
+and &tab[n] are both outside the limits of the array tab . The former is strictly illegal, and it is
+and there is an array of pairs. The structure declaration
+and thus a dcl. We can also illustrate the parse with a tree like this (where direct-dcl has been
+and when all are present. As usual, the number of entries in the array keytab will be computed
+an existing file for writing causes the old contents to be discarded, while opening for appending
+• An h if the integer is to be printed as a short , or l (letter ell) if as a long .
+An object can be a variable or array or structure. A type name can be the name of a basic type
+Another example, more typical for C, comes from graphics: a point is a pair of coordinate, a
+another program via a pipeline.
+Another way to write this is to divide the array size by the size of a specific element:
+an output file. We included the program name, from argv[0] , in the message, so if this
+• A number that specifies the minimum field width. The converted argument will be
+• A number, the precision, that specifies the maximum number of characters to be printed
+• A period, which separates the field width from the precision.
+appears on the screen even if the standard output is redirected.
+Appendix A, Section 8.5; this is a simplified form:
+"April", "May", "June",
+"April", "May", "June",
+"April", "May", "June",
+"April", "May", "June",
+ap to point to the first unnamed argument. It must be called once before ap is used. There
+are identical to scanf and printf , except that the first argument is a file pointer that specifies
+are passed by value like any others.
+arg1 , arg2 , etc. These arguments must be pointers.
+argc = 0;
+argc = 0;
+argc = 0;
+argc = 0;
+argc, char *argv[])
+argc, char *argv[])
+argc is decremented and argv is incremented before each optional argument. At the end of the
+argc is decremented and argv is incremented before each optional argument. At the end of the
+argc is decremented and argv is incremented before each optional argument. At the end of the
+argc is decremented and argv is incremented before each optional argument. At the end of the
+argument casts the arguments of the comparison function. These will generally have no effect
+argument casts the arguments of the comparison function. These will generally have no effect
+argument casts the arguments of the comparison function. These will generally have no effect
+argument casts the arguments of the comparison function. These will generally have no effect
+argument is the mode, also a character string, which indicates how one intends to use the file.
+argument must be a pointer, as required by the call-by-value semantics of C. Conversion
+arguments. Any pointer can be cast to void * and back again without loss of information, so
+arguments. Any pointer can be cast to void * and back again without loss of information, so
+arguments. Any pointer can be cast to void * and back again without loss of information, so
+arguments. Any pointer can be cast to void * and back again without loss of information, so
+arguments of if they are the wrong type. You should also be aware of the difference between
+arguments, so as to concentrate on the main issues.
+arguments, so as to concentrate on the main issues.
+arguments, so as to concentrate on the main issues.
+arguments, so as to concentrate on the main issues.
+arguments the program was invoked with; the second ( argv , for argument vector) is a pointer
+arguments the program was invoked with; the second ( argv , for argument vector) is a pointer
+arguments the program was invoked with; the second ( argv , for argument vector) is a pointer
+arguments the program was invoked with; the second ( argv , for argument vector) is a pointer
+arguments to a function:
+argument string. In the inner loop, the expression *++argv[0] increments the pointer
+argument string. In the inner loop, the expression *++argv[0] increments the pointer
+argument string. In the inner loop, the expression *++argv[0] increments the pointer
+argument string. In the inner loop, the expression *++argv[0] increments the pointer
+Argument type; Printed As
+argument types in functions, or qualifiers like const . Spurious blanks confuse it. It doesn't do
+argv[0] !
+argv[0] !
+argv[0] !
+argv[0] !
+( ++argv ) makes it point at the original argv[1] instead of argv[0] . Each successive
+( ++argv ) makes it point at the original argv[1] instead of argv[0] . Each successive
+( ++argv ) makes it point at the original argv[1] instead of argv[0] . Each successive
+( ++argv ) makes it point at the original argv[1] instead of argv[0] . Each successive
+argv: pointer to char
+arithmetic that involves the first element beyond the end of an array (that is, &tab[n] ) will
+array and an array of pointers, such as name in the example above. Given the definitions
+array and an array of pointers, such as name in the example above. Given the definitions
+array and an array of pointers, such as name in the example above. Given the definitions
+array and an array of pointers, such as name in the example above. Given the definitions
+array is free; all the others have to be specified.
+array is free; all the others have to be specified.
+array is free; all the others have to be specified.
+array is free; all the others have to be specified.
+array is free; all the others have to be specified.
+array is free; all the others have to be specified.
+array is free; all the others have to be specified.
+array is free; all the others have to be specified.
+arrays of pointers is to store character strings of diverse lengths, as in the function
+arrays of pointers is to store character strings of diverse lengths, as in the function
+arrays of pointers is to store character strings of diverse lengths, as in the function
+arrays of pointers is to store character strings of diverse lengths, as in the function
+As a first example, the rudimentary calculator of Chapter 4 can be written with scanf to do
+As another example, the function ptinrect tests whether a point is inside a rectangle, where
+As a second example, let us make some enhancements to the pattern-finding program from
+As a second example, let us make some enhancements to the pattern-finding program from
+As a second example, let us make some enhancements to the pattern-finding program from
+As a second example, let us make some enhancements to the pattern-finding program from
+a set of named files into the standard output. cat is used for printing files on the screen, and as
+as exercises.
+A sizeof can not be used in a #if line, because the preprocessor does not parse type names.
+A sort often consists of three parts - a comparison that determines the ordering of any pair of
+A sort often consists of three parts - a comparison that determines the ordering of any pair of
+A sort often consists of three parts - a comparison that determines the ordering of any pair of
+A sort often consists of three parts - a comparison that determines the ordering of any pair of
+assume has an x coordinate and a y coordinate, both integers.
+a string s ,
+A struct declaration defines a type. The right brace that terminates the list of members may
+A structure declaration that is not followed by a list of variables reserves no storage; it merely
+A structure is a collection of one or more variables, possibly of different types, grouped
+at the top of the precedence hierarchy and thus bind very tightly. For example, given the
+"auto", 0,
+{ "auto", 0 },110
+automatically defined for a program by the local operating system.
+Automatic structures and arrays may now also be initialized.
+A variety of other options can be added to the sorting program; some make challenging
+A warning: printf uses its first argument to decide how many arguments follow and what
+A width or precision may be specified as *, in which case the value is computed by converting
+Because of alignment requirements for different objects, there may be unnamed ``holes'' in a
+because the addition of pointers is illegal. Subtraction is legal, however, so high-low is the
+because x is not a pointer.
+be copied and assigned to, passed to functions, and returned by functions. This has been
+be followed by a list of variables, just as for any basic type. That is,106
+before the first reference. When the name is bracketed by < and > a search is made for the
+be functions, the & is not necessary, in the same way that it is not needed before an array name.
+be functions, the & is not necessary, in the same way that it is not needed before an array name.
+be functions, the & is not necessary, in the same way that it is not needed before an array name.
+be functions, the & is not necessary, in the same way that it is not needed before an array name.
+be reassigned by the library function freopen .)
+between text and binary files; for the latter, a "b" must be appended to the mode string.
+be used later in definitions of instances of the structure. For example, given the declaration of
+binsearch(char *word, struct key *tab, int n)
+/* binsearch: find word in tab[0]...tab[n-1] */
+/* binsearch: find word in tab[0]...tab[n-1] */
+Blanks or tabs, which are not ignored.129
+(blanks, tabs, newlines, etc.) as it looks for input values. To read input whose format is not
+Both . and -> associate from left to right, so if we have
+break;
+break;
+break;
+break;
+break;
+break;
+break;
+break;
+break;
+break;
+break;
+break;
+break;
+break;
+break;
+break;
+break;
+"break", 0,
+{ "break", 0 },
+breaking them into two or three steps will be more intuitive.
+breaking them into two or three steps will be more intuitive.
+breaking them into two or three steps will be more intuitive.
+breaking them into two or three steps will be more intuitive.
+break long text lines.
+but inner braces are not necessary when the initializers are simple variables or character strings,
+But the expression in the #define is not evaluated by the preprocessor, so the code here is
+But the very fact that the arrays are parallel suggests a different organization, an array of
+But this is more than is needed, since the size of the array is completely determined at compile
+but will call the real printf to do the format conversions.
+By convention, argv[0] is the name by which the program was invoked, so argc is at least 1.
+By convention, argv[0] is the name by which the program was invoked, so argc is at least 1.
+By convention, argv[0] is the name by which the program was invoked, so argc is at least 1.
+By convention, argv[0] is the name by which the program was invoked, so argc is at least 1.
+by following its definition with a list of initializers, each a constant expression, for the
+by name. For example, the command
+by the function prototype, qsort expects an array of pointers, two integers, and a function
+by the function prototype, qsort expects an array of pointers, two integers, and a function
+by the function prototype, qsort expects an array of pointers, two integers, and a function
+by the function prototype, qsort expects an array of pointers, two integers, and a function
+c
+called from other functions, and that calls to it can be found with a pattern-searching program
+calling alloc to maintain storage. How much faster is the program?
+calling alloc to maintain storage. How much faster is the program?
+calling alloc to maintain storage. How much faster is the program?
+calling alloc to maintain storage. How much faster is the program?
+Calls to scanf can be mixed with calls to other input functions. The next call to any input
+can be assigned, placed in arrays, passed to functions, returned by functions, and so on. We
+can be assigned, placed in arrays, passed to functions, returned by functions, and so on. We
+can be assigned, placed in arrays, passed to functions, returned by functions, and so on. We
+can be assigned, placed in arrays, passed to functions, returned by functions, and so on. We
+cannot be read left to right, and because parentheses are over-used. The difference between101
+canonical form:
+/* canonrect: canonicalize coordinates of rectangle */
+"case", 0,
+{ "case", 0 },
+case 'd':
+case 'f':
+case 'n':
+case 'n':
+case 'n':
+case 'n':
+case 's':
+case 'x':
+case 'x':
+case 'x':
+case 'x':
+/* cat:
+/* cat:
+cat x.c y.c131
+causes of error as well, like trying to read a file when you don't have permission. If there is any
+causes space to be set aside for them.
+changes in binsearch .
+Chapter 6 - Structures
+char
+"char", 0,
+Character
+Character
+character from a file; it needs the file pointer to tell it which file.
+character of the input stream.
+characters are blank, tab, newline, carriage return, vertical tab, and formfeed.)
+characters are shown in Table 7.2.
+characters; char * . The next input characters (default 1) are placed at the
+character string containing the name of the n -th month. This is an ideal application for an
+character string containing the name of the n -th month. This is an ideal application for an
+character string containing the name of the n -th month. This is an ideal application for an
+character string containing the name of the n -th month. This is an ideal application for an
+character string (not quoted); char * , pointing to an array of characters long
+character strings to hold the names, and an array of integers for the counts. One possibility is
+char aname[][15] = { "Illegal month", "Jan", "Feb", "Mar" };
+char aname[][15] = { "Illegal month", "Jan", "Feb", "Mar" };
+char aname[][15] = { "Illegal month", "Jan", "Feb", "Mar" };
+char aname[][15] = { "Illegal month", "Jan", "Feb", "Mar" };
+char **argv
+char c;
+char datatype[MAXTOKEN];
+char *keyword[NKEYS];
+char line[MAXLINE];
+char line[MAXLINE];
+char line[MAXLINE];
+char line[MAXLINE];
+char line[MAXLINE];
+char line[MAXLINE];
+char line[MAXLINE];
+char line[MAXLINE];
+char *lineptr[MAXLINES];
+char *lineptr[MAXLINES];
+char *lineptr[MAXLINES];
+char *lineptr[MAXLINES];
+char monthname[20];
+char *month_name(int n)
+char *month_name(int n)
+char *month_name(int n)
+char *month_name(int n)
+char *name[] = { "Illegal month", "Jan", "Feb", "Mar" };95
+char *name[] = { "Illegal month", "Jan", "Feb", "Mar" };95
+char *name[] = { "Illegal month", "Jan", "Feb", "Mar" };95
+char *name[] = { "Illegal month", "Jan", "Feb", "Mar" };95
+char name[MAXTOKEN];
+char out[1000];
+char *p, *sval;128
+char *p = token;
+char *str;
+char temp[MAXTOKEN];
+char token[MAXTOKEN];
+char , while argc is counted down:
+char , while argc is counted down:
+char , while argc is counted down:
+char , while argc is counted down:
+char *word;
+char *word;
+char *word;
+char *word;
+char word[MAXWORD];
+char word[MAXWORD];
+char *w = word;
+char (*(*x())[])()
+char (*(*x())[])()
+char (*(*x[3])())[5]
+c int ; single character
+C is sometimes castigated for the syntax of its declarations, particularly ones that involve
+cleanup is necessary. It must be called before the program returns.
+command line, where each operator or operand is a separate argument. For example,
+command line, where each operator or operand is a separate argument. For example,
+command line, where each operator or operand is a separate argument. For example,
+command line, where each operator or operand is a separate argument. For example,
+comments, or preprocessor control lines. Write a better version.
+common error is writing
+compares two strings on a leading numeric value, computed by calling atof :
+comparison and exchange operations, so by passing different comparison and exchange
+comparison and exchange operations, so by passing different comparison and exchange
+comparison and exchange operations, so by passing different comparison and exchange
+comparison and exchange operations, so by passing different comparison and exchange
+comp: function returning pointer to void
+complete; for the full story, see Appendix B.
+comp: pointer to function returning void
+(*comp)(v[i], v[left])
+concatenate files. The design is one that has been found convenient for many programs. If
+concatenate files, version 1 */
+concatenate files, version 2 */
+Consider the problem of date conversion, from day of the month to day of the year and vice
+Consider the problem of date conversion, from day of the month to day of the year and vice
+Consider the problem of date conversion, from day of the month to day of the year and vice
+Consider the problem of date conversion, from day of the month to day of the year and vice
+Consider the problem of writing a function month_name(n) , which returns a pointer to a
+Consider the problem of writing a function month_name(n) , which returns a pointer to a
+Consider the problem of writing a function month_name(n) , which returns a pointer to a
+Consider the problem of writing a function month_name(n) , which returns a pointer to a
+Consider writing a program to count the occurrences of each C keyword. We need an array of
+"const", 0,
+const , and so on.105
+continue;
+"continue", 0,
+Conversion characters are shown in Table 7.1. If the character after the % is not a conversion
+conversion of input. The format string may contain:
+• Conversion specifications, consisting of the character % , an optional assignment
+corresponding converted input should be stored. As with printf , this section is a summary of
+corresponding position in the array. The characters of the i -th string are placed somewhere,
+corresponding position in the array. The characters of the i -th string are placed somewhere,
+corresponding position in the array. The characters of the i -th string are placed somewhere,
+corresponding position in the array. The characters of the i -th string are placed somewhere,
+could be structures: a name has several components, as does an address and even a salary.
+could write
+/* count C keywords */
+/* count C keywords; pointer version */
+C provides a compile-time unary operator called sizeof that can be used to compute the size
+C provides rectangular multi-dimensional arrays, although in practice they are much less used
+C provides rectangular multi-dimensional arrays, although in practice they are much less used
+C provides rectangular multi-dimensional arrays, although in practice they are much less used
+C provides rectangular multi-dimensional arrays, although in practice they are much less used
+d
+data type = char, int, etc. */
+day += daytab[leap][i];
+day += daytab[leap][i];
+day += daytab[leap][i];
+/* day_of_year: set day of year from month & day */
+/* day_of_year: set day of year from month & day */
+/* day_of_year: set day of year from month & day */
+daytab: array[13] of pointer to int
+daytab[i,j]
+daytab[i,j]
+daytab[i,j]
+daytab[i,j]
+daytab[i][j]
+daytab[i][j]
+daytab[i][j]
+daytab[i][j]
+daytab is the first two-dimensional array we have dealt with. In C, a two-dimensional array is
+daytab is the first two-dimensional array we have dealt with. In C, a two-dimensional array is
+daytab is the first two-dimensional array we have dealt with. In C, a two-dimensional array is
+daytab is the first two-dimensional array we have dealt with. In C, a two-dimensional array is
+daytab is to be passed to a function f , the declaration of f would be:
+daytab is to be passed to a function f , the declaration of f would be:
+daytab is to be passed to a function f , the declaration of f would be:
+daytab is to be passed to a function f , the declaration of f would be:
+daytab: pointer to array[13] of int
+/* ( dcl ) */
+(dcl)
+dcl:
+dcl();
+dcl();
+dcl is based on the grammar that specifies a declarator, which is spelled out precisely in
+/* dcl: parse a declarator */
+decimal integer; int *
+declaration
+declaration
+declaration
+declaration
+declaration
+declaration
+declaration
+declaration
+declaration
+declaration called FILE . The only declaration needed for a file pointer is exemplified by
+declaration ... can only appear at the end of an argument list. Our minprintf is declared as
+declarations is in small steps with typedef , which is discussed in Section 6.7. As an
+declares a structure type key , defines an array keytab of structures of this type, and sets aside
+(decreasing) order. Be sure that -r works with -n .
+default:
+default:
+default:
+default:
+default:
+"default", 0,
+default behavior.
+default behavior.
+default behavior.
+default behavior.
+#define getchar()
+#define max(a, b) ((a) > (b) ? (a) : (b))
+#define MAXLINE 1000
+#define MAXLINE 1000
+#define MAXLINE 1000
+#define MAXLINE 1000
+#define MAXLINE 1000
+#define MAXLINE 1000
+#define MAXLINE 1000
+#define MAXLINE 1000
+#define MAXLINES 5000
+#define MAXLINES 5000
+#define MAXLINES 5000
+#define MAXLINES 5000
+#define MAXTOKEN
+#define MAXWORD 100
+#define MAXWORD 100
+#define min(a, b) ((a) < (b) ? (a) : (b))
+#define NKEYS (sizeof keytab / sizeof(keytab[0]))
+#define NKEYS (sizeof keytab / sizeof(struct key))
+#define putchar(c)
+defines a variable pt which is a structure of type struct point . A structure can be initialized
+depending on the name it is invoked with, as found in argv[0] .
+descent parser.
+described below; the other arguments, each of which must be a pointer, indicate where the
+describes a template or shape of a structure. If the declaration is tagged, however, the tag can
+diagonally opposite corners:
+different lengths. That is, each element of b need not point to a twenty-element vector; some
+different lengths. That is, each element of b need not point to a twenty-element vector; some
+different lengths. That is, each element of b need not point to a twenty-element vector; some
+different lengths. That is, each element of b need not point to a twenty-element vector; some
+different structures, although as a matter of style one would normally use the same names only
+d,i int ; decimal number
+dirdcl();
+/* dirdcl: parse a direct declarator */
+direct-dcl()
+direct-dcl name
+direct-dcl[optional size]
+distinctions are not made during sorting; for example, a and A compare equal.
+dist = sqrt((double)pt.x * pt.x + (double)pt.y * pt.y);
+/* do nothing if array contains */
+Don't assume, however, that the size of a structure is the sum of the sizes of its members.
+double dist, sqrt(double);
+double dval;
+double ; [-] m.dddddd e+/- xx or [-] m.dddddd E+/- xx, where the number of d's
+double ; [-] m.dddddd, where the number of d's is given by the precision (default
+double sum, v;
+double ; use %e or %E if the exponent is less than -4 or greater than or equal to the
+double v1, v2;
+dval = va_arg(ap, double);
+Each call of va_arg returns one argument and steps ap to the next; va_arg uses a type name
+each field sorted according to an independent set of options. (The index for this book was
+Each source file that refers to an input/output library function must contain the line
+/* echo command-line arguments; 1st version */
+/* echo command-line arguments; 1st version */
+/* echo command-line arguments; 1st version */
+/* echo command-line arguments; 1st version */
+/* echo command-line arguments; 2nd version */
+/* echo command-line arguments; 2nd version */
+/* echo command-line arguments; 2nd version */
+/* echo command-line arguments; 2nd version */
+echo hello, world
+echo hello, world
+echo hello, world
+echo hello, world
+e,E
+e,f,g
+else
+else
+else
+else
+else
+else
+else
+else
+else
+else
+else
+else
+else
+else
+else
+} else
+} else
+} else {
+} else {
+} else {
+} else {
+} else {
+} else {
+} else {
+else {
+} else if (c == '[') {
+else if (cond > 0)
+else if (cond > 0)
+} else if (isalpha(c)) {
+else if (sscanf(line, "%d/%d/%d", &month, &day, &year) == 3)
+} else if (tokentype == NAME) /* variable name */
+else if (type == '*') {
+} else if (type == NAME) {
+else if (v1 > v2)
+ends with a conversion character. Between the % and the conversion character there may be,
+enough for the string and a terminating '\0' that will be added.
+entab -m +n
+entab -m +n
+entab -m +n
+entab -m +n
+enum { NAME, PARENS, BRACKETS };
+error, fopen will return NULL . (The error can be identified more precisely; see the discussion of
+error-handling functions at the end of Section 1 in Appendix B.)
+evaluates 2 * (3+4).
+evaluates 2 * (3+4).
+evaluates 2 * (3+4).
+evaluates 2 * (3+4).
+except = 1;
+except = 1;
+except = 1;
+except = 1;
+execution when it is called. The argument of exit is available to whatever process called this
+Exercise 5-10. Write the program expr , which evaluates a reverse Polish expression from the
+Exercise 5-10. Write the program expr , which evaluates a reverse Polish expression from the
+Exercise 5-10. Write the program expr , which evaluates a reverse Polish expression from the
+Exercise 5-10. Write the program expr , which evaluates a reverse Polish expression from the
+Exercise 5-11. Modify the program entab and detab (written as exercises in Chapter 1) to
+Exercise 5-11. Modify the program entab and detab (written as exercises in Chapter 1) to
+Exercise 5-11. Modify the program entab and detab (written as exercises in Chapter 1) to
+Exercise 5-11. Modify the program entab and detab (written as exercises in Chapter 1) to
+Exercise 5-12. Extend entab and detab to accept the shorthand
+Exercise 5-12. Extend entab and detab to accept the shorthand
+Exercise 5-12. Extend entab and detab to accept the shorthand
+Exercise 5-12. Extend entab and detab to accept the shorthand
+Exercise 5-13. Write the program tail , which prints the last n lines of its input. By default, n
+Exercise 5-13. Write the program tail , which prints the last n lines of its input. By default, n
+Exercise 5-13. Write the program tail , which prints the last n lines of its input. By default, n
+Exercise 5-13. Write the program tail , which prints the last n lines of its input. By default, n
+Exercise 5-14. Modify the sort program to handle a -r flag, which indicates sorting in reverse
+Exercise 5-15. Add the option -f to fold upper and lower case together, so that case
+Exercise 5-16. Add the -d (``directory order'') option, which makes comparisons only on
+Exercise 5-17. Add a field-searching capability, so sorting may bee done on fields within lines,
+Exercise 5-18. Make dcl recover from input errors.
+Exercise 5-19. Modify undcl so that it does not add redundant parentheses to declarations.
+Exercise 5-20. Expand dcl to handle declarations with function argument types, qualifiers like
+Exercise 5-5. Rewrite the postfix calculator of Chapter 4 to use scanf and/or sscanf to do
+Exercise 5-7. Rewrite readlines to store lines in an array supplied by main , rather than
+Exercise 5-7. Rewrite readlines to store lines in an array supplied by main , rather than
+Exercise 5-7. Rewrite readlines to store lines in an array supplied by main , rather than
+Exercise 5-7. Rewrite readlines to store lines in an array supplied by main , rather than
+Exercise 5-8. There is no error checking in day_of_year or month_day . Remedy this defect.
+Exercise 5-8. There is no error checking in day_of_year or month_day . Remedy this defect.
+Exercise 5-8. There is no error checking in day_of_year or month_day . Remedy this defect.
+Exercise 5-8. There is no error checking in day_of_year or month_day . Remedy this defect.
+Exercise 5-8. There is no error checking in day_of_year or month_day . Remedy this defect.
+Exercise 5-8. There is no error checking in day_of_year or month_day . Remedy this defect.
+Exercise 5-8. There is no error checking in day_of_year or month_day . Remedy this defect.
+Exercise 5-8. There is no error checking in day_of_year or month_day . Remedy this defect.
+Exercise 5-9. Rewrite the routines day_of_year and month_day with pointers instead of
+Exercise 5-9. Rewrite the routines day_of_year and month_day with pointers instead of
+Exercise 5-9. Rewrite the routines day_of_year and month_day with pointers instead of
+Exercise 5-9. Rewrite the routines day_of_year and month_day with pointers instead of
+Exercise 6-1. Our version of getword does not properly handle underscores, string constants,
+Exercise 7-1. Write a program that converts upper case to lower or lower case to upper,
+Exercise 7-2. Write a program that will print arbitrary input in a sensible way. As a minimum,
+Exercise 7-3. Revise minprintf to handle more of the other facilities of printf .
+Exercise 7-4. Write a private version of scanf analogous to minprintf from the previous
+exercises.
+exit(0);
+exit(1);
+exit(2);
+exponent; float *
+expr 2 3 4 + *
+expr 2 3 4 + *
+expr 2 3 4 + *
+expr 2 3 4 + *
+external names that a user thinks of to the statements that read the data.
+external variables as dcl does.
+f
+facilities in the opposite direction.
+fact, that is what we have used in the inner loop, where the task is to walk along a specific
+fact, that is what we have used in the inner loop, where the task is to walk along a specific
+fact, that is what we have used in the inner loop, where the task is to walk along a specific
+fact, that is what we have used in the inner loop, where the task is to walk along a specific
+/* FAILS if s contains % */
+(false) or one (true), so it can be used as a subscript of the array daytab .
+(false) or one (true), so it can be used as a subscript of the array daytab .
+(false) or one (true), so it can be used as a subscript of the array daytab .
+(false) or one (true), so it can be used as a subscript of the array daytab .
+fclose(fp);
+fclose(fp);
+/* fewer than two elements */
+FILE
+FILE
+/* filecopy: copy file ifp to file ofp */
+filecopy(FILE *, FILE *)
+filecopy(FILE *, FILE *);
+filecopy(fp, stdout);
+filecopy(fp, stdout);
+filecopy(stdin, stdout);
+filecopy(stdin, stdout);
+FILE *fopen(char *name, char *mode);
+FILE *fp;
+FILE is a type name, like int , not a structure tag; it is defined with a typedef . (Details of how
+file is being read or written, and whether errors or end of file have occurred. Users don't need
+file, or the character itself if it is not alphabetic.
+files or pipes as described in Section 7.1.132
+file, such as the location of a buffer, the current character position in the buffer, whether the
+Finally, an aside on program format: when a function returns a complicated type like a
+find -nx pattern
+find -nx pattern
+find -nx pattern
+find -nx pattern
+/* find: print lines that match pattern from 1st arg */
+/* find: print lines that match pattern from 1st arg */
+/* find: print lines that match pattern from 1st arg */
+/* find: print lines that match pattern from 1st arg */
+/* find: print lines that match pattern from 1st arg */
+/* find: print lines that match pattern from 1st arg */
+/* find: print lines that match pattern from 1st arg */
+/* find: print lines that match pattern from 1st arg */
+find -x -npattern
+find -x -npattern
+find -x -npattern
+find -x -npattern
+f(int (*daytab)[13]) { ... }
+f(int (*daytab)[13]) { ... }
+f(int (*daytab)[13]) { ... }
+f(int (*daytab)[13]) { ... }
+f(int (*daytab)[13]) { ... }
+f(int (*daytab)[13]) { ... }
+f(int (*daytab)[13]) { ... }
+f(int (*daytab)[13]) { ... }
+f(int daytab[][13]) { ... }
+f(int daytab[][13]) { ... }
+f(int daytab[][13]) { ... }
+f(int daytab[][13]) { ... }
+f(int daytab[2][13]) { ... }
+f(int daytab[2][13]) { ... }
+f(int daytab[2][13]) { ... }
+fixed, it is often best to read a line at a time, then pick it apart with scanf . For example,
+fixed size.
+fixed size.
+fixed size.
+fixed size.
+floating-point number with optional sign, optional decimal point and optional
+fopen can be implemented on the UNIX system are given in Section 8.5.)
+for closely related objects.
+For formatted input or output of files, the functions fscanf and fprintf may be used. These
+for (i = 1; i < argc; i++)
+for (i = 1; i < argc; i++)
+for (i = 1; i < argc; i++)
+for (i = 1; i < argc; i++)
+for (i = 1; i < month; i++)
+for (i = 1; i < month; i++)
+for (i = 1; i < month; i++)
+for (i = 1; yearday > daytab[leap][i]; i++)
+for (i = 1; yearday > daytab[leap][i]; i++)
+for (i = 1; yearday > daytab[leap][i]; i++)
+for (i = left+1; i <= right; i++)
+for ( ; --lim > 0; w++)
+format . It returns the number of characters printed.
+for (n = 0; n < NKEYS; n++)
+for (ns = 0; gettoken() == '*'; ) /* count *'s */
+for (*p++ = c; isalnum(c = getch()); )
+for (*p++ = c; (*p++ = getch()) != ']'; )
+for (p = fmt; *p; p++) {
+for (p = keytab; p < keytab + NKEYS; p++)
+for (p = keytab; p < keytab + NKEYS; p++)
+for (sval = va_arg(ap, char *); *sval; sval++)
+found++;
+found++;
+found++;
+found++;
+found++;
+found++;
+found++;
+found++;
+found = -1;
+found = -1;
+found = -1;
+found = -1;
+*fp;
+*fp;
+fp = fopen(name, mode);
+fprintf(stderr, "%s: can't open %s\n",
+fprintf(stderr, "%s: error writing stdout\n", prog);
+from a string, or the number of digits after the decimal point of a floating-point value,
+function fopen . fopen takes an external name like x.c or y.c , does some housekeeping and
+function must include the number of columns; the number of rows is irrelevant, since what is
+function must include the number of columns; the number of rows is irrelevant, since what is
+function must include the number of columns; the number of rows is irrelevant, since what is
+function must include the number of columns; the number of rows is irrelevant, since what is
+function prototype and in binsearch . If binsearch finds the word, it returns a pointer to it; if
+functions and returning values from functions as well. Structures may not be compared. A
+functions to it, we can arrange to sort by different criteria. This is the approach taken in our
+functions to it, we can arrange to sort by different criteria. This is the approach taken in our
+functions to it, we can arrange to sort by different criteria. This is the approach taken in our
+functions to it, we can arrange to sort by different criteria. This is the approach taken in our
+function will begin by reading the first character not read by scanf .
+getch and ungetch are discussed in Chapter 4.
+getchar and putchar can be defined in terms of getc , putc , stdin , and stdout as follows:
+getc returns the next character from the stream referred to by fp ; it returns EOF for end of file
+getc(stdin)
+getword finds a word, which is copied into the array named as its first argument.
+/* getword: get next word or character from input */
+getword uses the getch and ungetch that we wrote in Chapter 4. When the collection of an
+g,G
+given by the precision.
+goes to stderr , so it finds its way to the screen instead of disappearing down a pipeline or into
+Going in the other direction is easier, especially if we do not worry about generating redundant
+hand, it's a lot easier and safer to do it by machine, especially if the list is subject to change.
+header in a standard set of places (for example, on UNIX systems, typically in the directory
+:hello, wor
+:hello, wor:
+hello, wor:
+:hello, world
+:hello, world:
+:hello, world:
+:hello, world:
+:hello, world:
+hello, world
+hello, world
+hello, world
+hello, world
+Here are the global variables and the main routine:
+Here both the arguments and the return value are structures. We incremented the components
+Here is the program:
+Here is the program:
+Here is the program:
+Here is the program:
+here). The tag names this kind of structure, and can be used subsequently as a shorthand for
+hexadecimal integer (with or without leading 0x or 0X ); int *
+high = mid;
+high = mid - 1;
+high = n - 1;
+however, the definition only allocates 10 pointers and does not initialize them; initialization
+however, the definition only allocates 10 pointers and does not initialize them; initialization
+however, the definition only allocates 10 pointers and does not initialize them; initialization
+however, the definition only allocates 10 pointers and does not initialize them; initialization
+i
+identifier name */
+If a file that does not exist is opened for writing or appending, it is created if possible. Opening
+If a large structure is to be passed to a function, it is generally more efficient to pass a pointer
+if (argc != 1)
+if (argc != 1)
+if (argc != 1)
+if (argc != 1)
+if (argc == 1 ) /* no args; copy standard input */
+if (argc == 1) /* no args; copy standard input */
+if (argc > 1 && strcmp(argv[1], "-n") == 0)
+if (argc > 1 && strcmp(argv[1], "-n") == 0)
+if (argc > 1 && strcmp(argv[1], "-n") == 0)
+if (argc > 1 && strcmp(argv[1], "-n") == 0)
+if (argc != 2)
+if (argc != 2)
+if (argc != 2)
+if (argc != 2)
+If argc is 1, there are no command-line arguments after the program name. In the example
+If argc is 1, there are no command-line arguments after the program name. In the example
+If argc is 1, there are no command-line arguments after the program name. In the example
+If argc is 1, there are no command-line arguments after the program name. In the example
+If a two-dimensional array is to be passed to a function, the parameter declaration in the
+If a two-dimensional array is to be passed to a function, the parameter declaration in the
+If a two-dimensional array is to be passed to a function, the parameter declaration in the
+If a two-dimensional array is to be passed to a function, the parameter declaration in the
+if (c == '(') {
+if (c != EOF)
+if ((c = getch()) == ')') {
+if ((*comp)(v[i], v[left]) < 0)
+if ((*comp)(v[i], v[left]) < 0)100
+if ((cond = strcmp(word, mid->word)) < 0)
+if ((cond = strcmp(word, tab[mid].word)) < 0)
+if (ferror(stdout)) {
+if ((fp = fopen(*++argv, "r")) == NULL) {
+if ((fp = fopen(*++argv, "r")) == NULL) {
+if (!isalnum(*w = getch())) {
+if (!isalpha(c)) {
+if (isalpha(word[0]))
+if (isalpha(word[0]))
+if (keytab[n].count > 0)
+if (left >= right)
+if ((n = binsearch(word, keytab, NKEYS)) >= 0)
+if ((nlines = readlines(lineptr, MAXLINES)) >= 0) {
+if ((nlines = readlines(lineptr, MAXLINES)) >= 0) {
+if ((nlines = readlines(lineptr, MAXLINES)) >= 0) {
+if ((nlines = readlines(lineptr, MAXLINES)) >= 0) {
+if (number)
+if (number)
+if (number)
+if (number)
+if (*p != '%') {
+if ((p=binsearch(word, keytab, NKEYS)) != NULL)
+if (p->count > 0)
+If p is a pointer to a structure, arithmetic on p takes into account the size of the structure, so
+if (sscanf(line, "%d %s %d", &day, monthname, &year) == 3)
+if (strstr(line, argv[1]) != NULL) {
+if (strstr(line, argv[1]) != NULL) {
+if (strstr(line, argv[1]) != NULL) {
+if (strstr(line, argv[1]) != NULL) {
+if ((strstr(line, *argv) != NULL) != except) {
+if ((strstr(line, *argv) != NULL) != except) {
+if ((strstr(line, *argv) != NULL) != except) {
+if ((strstr(line, *argv) != NULL) != except) {
+if the initializers are present and the [] is left empty.
+if (tokentype == '(') {
+if (tokentype != ')')
+if (tokentype != '\n')
+if (type == PARENS)
+if (type == PARENS || type == BRACKETS)
+if (v1 < v2)
+"Illegal month",
+"Illegal month",
+"Illegal month",
+"Illegal month",
+illegal pointer or attempt to access an element outside the array. The problem is that &tab[-1]
+illegal to dereference the latter. The language definition does guarantee, however, that pointer
+illustrates the problem: * is a prefix operator and it has lower precedence than () , so
+immediately after the last character already converted.
+in braces. An optional name called a structure tag may follow the word struct (as with point
+In C, a function itself is not a variable, but it is possible to define pointers to functions, which
+In C, a function itself is not a variable, but it is possible to define pointers to functions, which
+In C, a function itself is not a variable, but it is possible to define pointers to functions, which
+In C, a function itself is not a variable, but it is possible to define pointers to functions, which
+#include <ctype.h>
+#include <ctype.h>
+#include <ctype.h>
+#include <ctype.h>
+#include <stdarg.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+increment moves it along to the next argument; *argv is then the pointer to that argument. At
+increment moves it along to the next argument; *argv is then the pointer to that argument. At
+increment moves it along to the next argument; *argv is then the pointer to that argument. At
+increment moves it along to the next argument; *argv is then the pointer to that argument. At
+increments len , not p , because the implied parenthesization is ++(p->len) . Parentheses can be
+increments p afterward. (This last set of parentheses is unnecessary.)
+independent of the number of arguments that we present. Furthermore, it is convenient for
+independent of the number of arguments that we present. Furthermore, it is convenient for
+independent of the number of arguments that we present. Furthermore, it is convenient for
+independent of the number of arguments that we present. Furthermore, it is convenient for
+indexing.
+indexing.
+indexing.
+indexing.
+indicated by the * character, however, the input field is skipped; no assignment is made. An
+indicated spot. The normal skip-over white space is suppressed; to read the next
+In environments that support C, there is a way to pass command-line arguments or parameters
+In environments that support C, there is a way to pass command-line arguments or parameters
+In environments that support C, there is a way to pass command-line arguments or parameters
+In environments that support C, there is a way to pass command-line arguments or parameters
+informally in previous chapters. The description here covers most typical uses but is not
+in format , and stores the results through the remaining arguments. The format argument is
+initialized.
+initialized.
+initialized.
+initialized.
+initialized by a corresponding sub-list. We started the array daytab with a column of zero so
+initialized by a corresponding sub-list. We started the array daytab with a column of zero so
+initialized by a corresponding sub-list. We started the array daytab with a column of zero so
+initialized by a corresponding sub-list. We started the array daytab with a column of zero so
+In main we wrote
+in order:126
+In our case, the number of keywords is the size of the array divided by the size of one element.
+in p1 rather than using an explicit temporary variable to emphasize that structure parameters
+Input Data; Argument type
+input field is defined as a string of non-white space characters; it extends either to the next
+input or the value of n. Write the program so it makes the best use of available storage; lines
+input or the value of n. Write the program so it makes the best use of available storage; lines
+input or the value of n. Write the program so it makes the best use of available storage; lines
+input or the value of n. Write the program so it makes the best use of available storage; lines
+instead of
+int .
+int a[10][20];
+int a[10][20];
+int a[10][20];
+int a[10][20];
+int *b[10];
+int *b[10];
+int *b[10];
+int *b[10];
+int binsearch(char *, struct key *, int);
+int binsearch(char *word, struct key tab[], int n)
+int c
+int c;
+int c, except = 0, number = 0, found = 0;
+int c, except = 0, number = 0, found = 0;
+int c, except = 0, number = 0, found = 0;
+int c, except = 0, number = 0, found = 0;
+int c, getch(void);
+int c, getch(void);
+int (*comp)(void *, void *)
+int (*comp)(void *, void *))
+int (*comp)(void *, void *));
+int (*comp)(void *, void *));
+int (*comp)(void *, void *));
+int (*comp)(void *, void *));
+int *comp(void *, void *)
+int cond;
+int cond;
+int count;
+int count;
+int count;
+int cout;
+int day, month, year;
+int day_of_year(int year, int month, int day)
+int day_of_year(int year, int month, int day)
+int day_of_year(int year, int month, int day)
+int (*daytab)[13]
+int *daytab[13]
+int *daytab[13]
+int *daytab[13]
+int *daytab[13]
+int *daytab[13]
+int *daytab[13]
+int *daytab[13]
+int *daytab[13]
+int *daytab[13]
+int day, year;
+integer; int * . The integer may be in octal (leading 0 ) or hexadecimal (leading
+integers.
+integers.
+integers.
+integers.
+interested in the argument processing, minprintf will process the format string and arguments
+internal static array. month_name contains a private array of character strings, and returns a
+internal static array. month_name contains a private array of character strings, and returns a
+internal static array. month_name contains a private array of character strings, and returns a
+internal static array. month_name contains a private array of character strings, and returns a
+int fclose(FILE *fp)
+int *f(); /* f: function returning pointer to int */
+int found = 0;
+int found = 0;
+int found = 0;
+int found = 0;
+int fprintf(FILE *fp, char *format, ...)
+int fscanf(FILE *fp, char *format, ...)
+int getc(FILE *fp)
+int getline(char *line, int max);
+int getline(char *line, int max);
+int getline(char *line, int max);
+int getline(char *line, int max);
+int getline(char *line, int max);
+int getline(char *line, int max);
+int getline(char *line, int max);
+int getline(char *line, int max);
+int gettoken(void);
+int gettoken(void) /* return next token */
+int getword(char *, int);
+int getword(char *, int);
+int getword(char *word, int lim)
+In the call to qsort , strcmp and numcmp are addresses of functions. Since they are known to
+In the call to qsort , strcmp and numcmp are addresses of functions. Since they are known to
+In the call to qsort , strcmp and numcmp are addresses of functions. Since they are known to
+In the call to qsort , strcmp and numcmp are addresses of functions. Since they are known to
+in the input. So we could read dates of the form mm/dd/yy with the scanf statement:
+In the same way, *p->str fetches whatever str points to; *p->str++ increments str after
+in the sense that each statement declares x , y and z to be variables of the named type and
+int i;
+int i;
+int i;
+int i;
+int i;
+int i, int j;)
+int i, last;
+int i, leap;
+int i, leap;
+int i, leap;
+int i, leap;93
+int i, leap;93
+int i, leap;93
+int ival;
+int keycount[NKEYS];
+int len;
+int low, high, mid;
+int n;
+int nlines;
+int nlines;
+int nlines;
+int nlines;
+int ns;
+int numcmp(char *, char *);
+int numcmp(char *, char *);
+int numcmp(char *, char *);
+int numcmp(char *, char *);
+int numcmp(char *s1, char *s2)
+int numeric = 0;
+int numeric = 0;
+int numeric = 0;
+int numeric = 0;
+into the day of the year, and month_day converts the day of the year into the month and day.
+into the day of the year, and month_day converts the day of the year into the month and day.
+into the day of the year, and month_day converts the day of the year into the month and day.
+into the day of the year, and month_day converts the day of the year into the month and day.
+int (*pf)(); /* pf: pointer to function returning int */
+int printf(char *fmt, ...)
+int printf(char *format, arg1, arg2, ...);
+int ptinrect(struct point
+int putc(int c, FILE *fp)
+int readlines(char *lineptr[], int nlines);
+int readlines(char *lineptr[], int nlines);
+int readlines(char *lineptr[], int nlines);
+int readlines(char *lineptr[], int nlines);
+int scanf(char *format, ...)
+int sprintf(char *string, char *format, arg1, arg2, ...);
+int sscanf(char *string, char *format, arg1, arg2, ...)
+int tokentype;
+int type;
+int type;
+(int (*)(void*,void*))(numeric ? numcmp : strcmp));
+(int (*)(void*,void*))(numeric ? numcmp : strcmp));
+(int (*)(void*,void*))(numeric ? numcmp : strcmp));
+(int (*)(void*,void*))(numeric ? numcmp : strcmp));
+int x;
+int x, y, z;
+int y;
+In words, a dcl is a direct-dcl, perhaps preceded by *'s. A direct-dcl is a name, or a
+is a name, a pair of parentheses, a pair of brackets perhaps including a number, or any other
+is an array of 13 pointers to integers. More generally, only the first dimension (subscript) of an
+is an array of 13 pointers to integers. More generally, only the first dimension (subscript) of an
+is an array of 13 pointers to integers. More generally, only the first dimension (subscript) of an
+is an array of 13 pointers to integers. More generally, only the first dimension (subscript) of an
+is an array of 13 pointers to integers. More generally, only the first dimension (subscript) of an
+is an array of 13 pointers to integers. More generally, only the first dimension (subscript) of an
+is an array of 13 pointers to integers. More generally, only the first dimension (subscript) of an
+is an array of 13 pointers to integers. More generally, only the first dimension (subscript) of an
+is collecting output. fclose is called automatically for each open file when a program
+is consistent with the declaration: comp is a pointer to a function, *comp is the function, and
+is given by the precision (default 6).
+is looked up in keytab with a version of the binary search function that we wrote in Chapter 3.
+is set to 10, let us say, but it can be changed by an optional argument so that
+is set to 10, let us say, but it can be changed by an optional argument so that
+is set to 10, let us say, but it can be changed by an optional argument so that
+is set to 10, let us say, but it can be changed by an optional argument so that
+is syntactically analogous to
+is the call to it. The parentheses are needed so the components are correctly associated;
+is the inverse of fopen , it breaks the connection between the file pointer and the external name
+It could also be
+It could also be
+It could also be
+It could also be
+items. This can be used to decide how many items were found. On the end of file, EOF is
+it fails, it returns NULL .
+It is rare that one uses pointer expressions more complicated than these; in such cases,
+It is rare that one uses pointer expressions more complicated than these; in such cases,
+It is rare that one uses pointer expressions more complicated than these; in such cases,
+It is rare that one uses pointer expressions more complicated than these; in such cases,
+it's a good idea to free the file pointers when they are no longer needed, as we did in cat .
+It scans the string according to the format in format and stores the resulting values through
+it should print non-graphic characters in octal or hexadecimal according to local custom, and
+ival = va_arg(ap, int);
+"January", "February", "March",
+"January", "February", "March",
+"January", "February", "March",
+"January", "February", "March",
+"July", "August", "September",
+"July", "August", "September",
+"July", "August", "September",
+"July", "August", "September",
+} keytab[] = {
+keytab[n].count++;
+keytab[n].count, keytab[n].word);
+} keytab[NKEYS];
+keytab until the end is found.111
+kind of condition indication as strcmp does. These functions are declared ahead of main and a
+kind of condition indication as strcmp does. These functions are declared ahead of main and a
+kind of condition indication as strcmp does. These functions are declared ahead of main and a
+kind of condition indication as strcmp does. These functions are declared ahead of main and a
+languages, notably Pascal.) Structures help to organize complicated data, particularly in large
+last = left;
+last token string */
+leap = year%4 == 0 && year%100 != 0 || year%400 == 0;
+leap = year%4 == 0 && year%100 != 0 || year%400 == 0;
+leap = year%4 == 0 && year%100 != 0 || year%400 == 0;
+leap = year%4 == 0 && year%100 != 0 || year%400 == 0;
+leap = year%4 == 0 && year%100 != 0 || year%400 == 0;
+leap = year%4 == 0 && year%100 != 0 || year%400 == 0;
+left adjustment is called for) to make up the field width.
+legal.
+less than the pt2 coordinates. The following function returns a rectangle guaranteed to be in
+letters, numbers and blanks. Make sure it works in conjunction with -f .
+Let us create a few structures suitable for graphics. The basic object is a point, which we will
+Let us define two functions to do the conversions: day_of_year converts the month and day
+Let us define two functions to do the conversions: day_of_year converts the month and day
+Let us define two functions to do the conversions: day_of_year converts the month and day
+Let us define two functions to do the conversions: day_of_year converts the month and day
+Let us investigate structures by writing some functions to manipulate points and rectangles.
+Let us revise cat to write its error messages on the standard error.
+lexicographically.
+lexicographically.
+lexicographically.
+lexicographically.
+Lexicographic comparison of two lines is done by strcmp , as before; we will also need a
+Lexicographic comparison of two lines is done by strcmp , as before; we will also need a
+Lexicographic comparison of two lines is done by strcmp , as before; we will also need a
+Lexicographic comparison of two lines is done by strcmp , as before; we will also need a
+like int or double , or a derived type like a structure or a pointer.
+like those in Chapter 5.
+lineno++;
+lineno++;
+lineno++;
+lineno++;
+Literal characters can appear in the scanf format string; they must match the same characters
+literal %; no assignment is made.
+long lineno = 0;
+long lineno = 0;
+long lineno = 0;
+long lineno = 0;
+loop, if there are no errors, argc tells how many arguments remain unprocessed and argv
+loop, if there are no errors, argc tells how many arguments remain unprocessed and argv
+loop, if there are no errors, argc tells how many arguments remain unprocessed and argv
+loop, if there are no errors, argc tells how many arguments remain unprocessed and argv
+low = 0;
+low = mid + 1;
+low = mid + 1;
+machine, but the interface it presents is uniform.
+main()
+main()
+main()
+main() /* convert declaration to words */
+main(int
+main(int
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main(int argc, char *argv[])
+main() /* lower: convert input to lower case*/
+main() /* rudimentary calculator */
+makepoint can now be used to initialize any structure dynamically, or to provide structure
+/* makepoint: make a point from x and y components */
+Many programs read only one input stream and write only one output stream; for such
+match the first specification in the format string. The next call to scanf resumes searching
+/* max #lines to be sorted */
+/* max #lines to be sorted */
+/* max #lines to be sorted */
+/* max #lines to be sorted */
+max(r.pt1.x,
+max(r.pt1.y,
+may point to two elements, some to fifty, and some to none at all.
+may point to two elements, some to fifty, and some to none at all.
+may point to two elements, some to fifty, and some to none at all.
+may point to two elements, some to fifty, and some to none at all.
+members:
+middle = makepoint((screen.pt1.x + screen.pt2.x)/2,
+mid = (low+high) / 2
+mid = (low+high) / 2;
+mid = low + (high-low) / 2
+mid = low + (high-low) / 2;
+might be acceptable if the output is going to a screen, but not if it's going into a file or into
+might well require eight bytes, not five. The sizeof operator returns the proper value.
+might write, for example,
+/* minprintf: minimal printf with variable argument list */
+minprintf , this variable is called ap , for ``argument pointer.'' The macro va_start initializes
+min(r.pt1.x,
+min(r.pt1.y,
+modification.
+month_day(1988, 60, &m, &d)
+month_day(1988, 60, &m, &d)
+month_day(1988, 60, &m, &d)
+month_day(1988, 60, &m, &d)
+/* month_day: set month, day from day of year */
+/* month_day: set month, day from day of year */
+/* month_day: set month, day from day of year */
+month_name . Compare the declaration and picture for an array of pointers:
+month_name . Compare the declaration and picture for an array of pointers:
+month_name . Compare the declaration and picture for an array of pointers:
+month_name . Compare the declaration and picture for an array of pointers:
+/* month_name: return name of n-th month */
+/* month_name: return name of n-th month */
+/* month_name: return name of n-th month */
+/* month_name: return name of n-th month */
+Most of the format conversions have been illustrated in earlier chapters. One exception is the
+much error recovery, so invalid declarations will also confuse it. These improvements are left
+multiple levels of pointers to manipulate these character strings.
+multiple levels of pointers to manipulate these character strings.
+multiple levels of pointers to manipulate these character strings.
+multiple levels of pointers to manipulate these character strings.
+must be at least one named argument; the final named argument is used by va_start to get
+must be done explicitly, either statically or with code. Assuming that each element of b does
+must be done explicitly, either statically or with code. Assuming that each element of b does
+must be done explicitly, either statically or with code. Assuming that each element of b does
+must be done explicitly, either statically or with code. Assuming that each element of b does
+name; indeed the re-use of the names stresses the relationship.
+necessary since brackets [] have higher precedence than * . Without parentheses, the
+necessary since brackets [] have higher precedence than * . Without parentheses, the
+necessary since brackets [] have higher precedence than * . Without parentheses, the
+necessary since brackets [] have higher precedence than * . Without parentheses, the
+necessary since brackets [] have higher precedence than * . Without parentheses, the
+necessary since brackets [] have higher precedence than * . Without parentheses, the
+necessary since brackets [] have higher precedence than * . Without parentheses, the
+necessary since brackets [] have higher precedence than * . Without parentheses, the
+negotiation with the operating system (details of which needn't concern us), and returns a
+Newcomers to C are sometimes confused about the difference between a two-dimensional
+Newcomers to C are sometimes confused about the difference between a two-dimensional
+Newcomers to C are sometimes confused about the difference between a two-dimensional
+Newcomers to C are sometimes confused about the difference between a two-dimensional
+new sort.
+new sort.
+new sort.
+new sort.
+no argument is converted; print a %
+No & is used with monthname , since an array name is a pointer.
+non-white space character, use %1s
+Notice that *++argv is a pointer to an argument string, so (*++argv)[0] is its first character.
+Notice that *++argv is a pointer to an argument string, so (*++argv)[0] is its first character.
+Notice that *++argv is a pointer to an argument string, so (*++argv)[0] is its first character.
+Notice that *++argv is a pointer to an argument string, so (*++argv)[0] is its first character.
+Notice that there is no conflict between the argument name and the member with the same
+not variables, so it is not possible to assign to them.
+Now for the function getword . We have written a more general getword than is necessary for
+ns++;
+number = 1;
+number = 1;
+number = 1;
+number = 1;
+number of elements, and thus
+/* number of input lines read */
+/* number of input lines read */
+/* number of input lines read */
+/* number of input lines read */
+/* numcmp: compare s1 and s2 numerically */
+numeric = 1;
+numeric = 1;
+numeric = 1;
+numeric = 1;
+o
+objects, an exchange that reverses their order, and a sorting algorithm that makes comparisons
+objects, an exchange that reverses their order, and a sorting algorithm that makes comparisons
+objects, an exchange that reverses their order, and a sorting algorithm that makes comparisons
+objects, an exchange that reverses their order, and a sorting algorithm that makes comparisons
+occurs. Like getchar and putchar , getc and putc may be macros instead of functions.
+octal integer (with or without leading zero); int *
+"October", "November", "December"
+"October", "November", "December"
+"October", "November", "December"
+"October", "November", "December"
+of any object. The expressions
+of attributes such as name, address, social security number, salary, etc. Some of these in turn
+of entries is just
+o int ; unsigned octal number (without a leading zero)
+on actual representation, but assure the compiler that all is well.
+on actual representation, but assure the compiler that all is well.
+on actual representation, but assure the compiler that all is well.
+one as a sub-process. Conventionally, a return value of 0 signals that all is well; non-zero
+one can be copied to the other.
+one can be copied to the other.
+one can be copied to the other.
+one can be copied to the other.
+One possibility would be to terminate the list of initializers with a null pointer, then loop along
+one, so the success or failure of the program can be tested by another program that uses this
+One traditional example of a structure is the payroll record: an employee is described by a set
+operator . is higher then * . The expression *pp.x means *(pp.x) , which is illegal here
+Optional arguments should be permitted in any order, and the rest of the program should be
+Optional arguments should be permitted in any order, and the rest of the program should be
+Optional arguments should be permitted in any order, and the rest of the program should be
+Optional arguments should be permitted in any order, and the rest of the program should be
+optional h , l or L indicating the width of the target, and a conversion character.
+optional *'s direct-dcl
+• Ordinary characters (not %), which are expected to match the next non-white space
+ordinary (i.e., non-member) variable can have the same name without conflict, since they can
+or error.
+or the minimum number of digits for an integer.
+or to compute the distance from the origin (0,0) to pt ,
+other recursively as they recognize pieces of a declaration; the program is called a recursive-
+Other than this notational distinction, a two-dimensional array can be treated in much the same
+Other than this notational distinction, a two-dimensional array can be treated in much the same
+Other than this notational distinction, a two-dimensional array can be treated in much the same
+Other than this notational distinction, a two-dimensional array can be treated in much the same
+out[0] = '\0';
+out any buffered output.
+output, and the standard error; the corresponding file pointers are called stdin , stdout , and
+Output produced by printf also finds its way to the standard output. Calls to putchar and
+output stream, and conversion specifications, each of which causes conversion and printing of
+overhead of a function call per character. We will show how this is done in Section 8.5.
+p
+} *p;
+*p = '\0';
+*p = '\0';
+p1.x += p2.x;
+p1.y += p2.y;
+parentheses are necessary to force the proper association.
+parentheses are necessary; without them the expression would be taken as *++(argv[0]) . In98
+parentheses are necessary; without them the expression would be taken as *++(argv[0]) . In98
+parentheses are necessary; without them the expression would be taken as *++(argv[0]) . In98
+parentheses are necessary; without them the expression would be taken as *++(argv[0]) . In98
+parentheses. The program undcl converts a word description like `` x is a function returning a
+parenthesized dcl, or a direct-dcl followed by parentheses, or a direct-dcl followed by brackets
+/* parse rest of line */
+passed is, as before, a pointer to an array of rows, where each row is an array of 13 int s. In
+passed is, as before, a pointer to an array of rows, where each row is an array of 13 int s. In
+passed is, as before, a pointer to an array of rows, where each row is an array of 13 int s. In
+passed is, as before, a pointer to an array of rows, where each row is an array of 13 int s. In
+pattern;'' the second says ``precede each printed line by its line number.''97
+pattern;'' the second says ``precede each printed line by its line number.''97
+pattern;'' the second says ``precede each printed line by its line number.''97
+pattern;'' the second says ``precede each printed line by its line number.''97
+*p++ = c;
+p->count++;
+*pday = yearday;
+*pday = yearday;
+*pday = yearday;
+(*pfa[])()
+*pfa[] is recognized as a dcl, so (*pfa[]) is a direct-dcl. Then (*pfa[])() is a direct-dcl
+pfa will be identified as a name and thus as a direct-dcl. Then pfa[] is also a direct-dcl. Then
+p++ increments p by the correct amount to get the next element of the array of structures, and
+p in r, 0 if not */
+places in the variable pointed to by the corresponding argument. If assignment suppression is
+++p->len
+p->member-of-structure
+*pmonth = i;
+*pmonth = i;
+*pmonth = i;
+point above,
+pointers. The important advantage of the pointer array is that the rows of the array may be of
+pointers. The important advantage of the pointer array is that the rows of the array may be of
+pointers. The important advantage of the pointer array is that the rows of the array may be of
+pointers. The important advantage of the pointer array is that the rows of the array may be of
+pointers to functions. The syntax is an attempt to make the declaration and the use agree; it
+Pointers to structures are so frequently used that an alternative notation is provided as a
+/* pointers to text lines */99
+/* pointers to text lines */99
+/* pointers to text lines */99
+/* pointers to text lines */99
+pointer to an array of pointers to functions returning char ,'' which we will express as
+pointer to array[5] of char
+pointer to be used in subsequent reads or writes of the file.
+pointer to function returning char
+pointer to the appropriate one is passed to qsort . We have skimped on error processing for
+pointer to the appropriate one is passed to qsort . We have skimped on error processing for
+pointer to the appropriate one is passed to qsort . We have skimped on error processing for
+pointer to the appropriate one is passed to qsort . We have skimped on error processing for
+pointer to the proper one when called. This section shows how that array of names is
+pointer to the proper one when called. This section shows how that array of names is
+pointer to the proper one when called. This section shows how that array of names is
+pointer to the proper one when called. This section shows how that array of names is
+points to the first of these. Thus argc should be 1 and *argv should point at the pattern.
+points to the first of these. Thus argc should be 1 and *argv should point at the pattern.
+points to the first of these. Thus argc should be 1 and *argv should point at the pattern.
+points to the first of these. Thus argc should be 1 and *argv should point at the pattern.
+point to a twenty-element array, then there will be 200 int s set aside, plus ten cells for the
+point to a twenty-element array, then there will be 200 int s set aside, plus ten cells for the
+point to a twenty-element array, then there will be 200 int s set aside, plus ten cells for the
+point to a twenty-element array, then there will be 200 int s set aside, plus ten cells for the
+pp = &origin;
+precise to enclose the initializers for each "row" or structure in braces, as in
+precision as it relates to strings. The following table shows the effect of a variety of
+precision; otherwise use %f . Trailing zeros and a trailing decimal point are not
+premium here, this is clearer than adjusting the indices.
+premium here, this is clearer than adjusting the indices.
+premium here, this is clearer than adjusting the indices.
+premium here, this is clearer than adjusting the indices.
+preserves them. Trying to read a file that does not exist is an error, and there may be other
+print.
+print.
+print.
+print.
+printed.
+printed in a field at least this wide. If necessary it will be padded on the left (or right, if
+printf("%4d %s\n",
+printf("%4d %s\n", p->count, p->word);
+printf((argc > 1) ? "%s " : "%s", *++argv);
+printf((argc > 1) ? "%s " : "%s", *++argv);
+printf((argc > 1) ? "%s " : "%s", *++argv);
+printf((argc > 1) ? "%s " : "%s", *++argv);
+printf("cat: can't open %s\n, *argv);
+printf converts, formats, and prints its arguments on the standard output under control of the
+printf("%d,%d", pt.x, pt.y);
+printf("%d", ival);
+printf("error: expected name or (dcl)\n");
+printf("error: missing )\n");
+printf("%f", dval);
+printf("find: illegal option %c\n", c);
+printf("find: illegal option %c\n", c);
+printf("find: illegal option %c\n", c);
+printf("find: illegal option %c\n", c);
+printf("input too big to sort\n");
+printf("input too big to sort\n");
+printf("input too big to sort\n");
+printf("input too big to sort\n");
+printf("invalid input at %s\n", token);
+printf("invalid: %s\n", line); /* invalid form */
+printf("%ld:", lineno);
+printf("%ld:", lineno);
+printf("%ld:", lineno);
+printf("%ld:", lineno);
+printf may be interleaved - output happens in the order in which the calls are made.
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("origin is (%d,%d)\n", (*pp).x, (*pp).y);
+printf("origin is (%d,%d)\n", pp->x, pp->y);
+printf(s);
+printf("%s", line);
+printf("%s", line);
+printf("%s", line);
+printf("%s", line);
+printf("%s", line);
+printf("%s", line);
+printf("%s", line);
+printf("%s", line);
+printf("%.*s", max, s);
+printf("%s", s);
+printf("%s%s", *++argv, (argc > 1) ? " " : "");
+printf("%s%s", *++argv, (argc > 1) ? " " : "");
+printf("%s%s", *++argv, (argc > 1) ? " " : "");
+printf("%s%s", *++argv, (argc > 1) ? " " : "");
+printf("%s%s", argv[i], (i < argc-1) ? " " : "");
+printf("%s%s", argv[i], (i < argc-1) ? " " : "");
+printf("%s%s", argv[i], (i < argc-1) ? " " : "");
+printf("%s%s", argv[i], (i < argc-1) ? " " : "");
+printf("%s: %s %s\n", name, out, datatype);
+printf("syntax error\n");
+printf("\t%.2f\n", sum += v);
+printf("Usage: find pattern\n");
+printf("Usage: find pattern\n");
+printf("Usage: find pattern\n");
+printf("Usage: find pattern\n");
+printf("Usage: find -x -n pattern\n");
+printf("Usage: find -x -n pattern\n");
+printf("Usage: find -x -n pattern\n");
+printf("Usage: find -x -n pattern\n");
+printf("valid: %s\n", line); /* 25 Dec 1988 form */
+printf("valid: %s\n", line); /* mm/dd/yy form */
+prints the contents of the files x.c and y.c (and nothing else) on the standard output.
+prints the last n lines. The program should behave rationally no matter how unreasonable the
+prints the last n lines. The program should behave rationally no matter how unreasonable the
+prints the last n lines. The program should behave rationally no matter how unreasonable the
+prints the last n lines. The program should behave rationally no matter how unreasonable the
+prints the output
+prints the output
+prints the output
+prints the output
+print the coordinates of the point pt , for instance,
+produces an unsigned integer value whose type, size_t , is defined in the header <stddef.h> .)
+prog | anotherprog
+prog, *argv);
+*prog = argv[0]; /* program name for errors */
+program in the same way that stdin and stdout are. Output written on stderr normally
+program is used with others, the source of an error is identified.
+program. One program that illustrates the need for such operations is cat , which concatenates
+programs, because they permit a group of related variables to be treated as a unit instead of as
+programs, input and output with getchar , putchar , and printf may be entirely adequate,
+program so the pattern to be matched is specified by the first argument on the command line.
+program so the pattern to be matched is specified by the first argument on the command line.
+program so the pattern to be matched is specified by the first argument on the command line.
+program so the pattern to be matched is specified by the first argument on the command line.
+p, struct rect r)
+/* ptinrect: return 1 if
+pushes that character back on the input for the next call. getword also uses isspace to skip
+putc(c, ofp);
+putc((c), stdout)
+putchar(*p);
+putchar(*p);
+putchar(*sval);
+putchar(tolower(c));
+putc is an output function:
+putc writes the character c to the file fp and returns the character written, or EOF if an error
+puts the standard output of prog into the standard input of anotherprog .
+&& p.x < r.pt2.x
+&& p.y >= r.pt1.y
+&& p.y < r.pt2.y;108
+/* qsort: sort v[left]...v[right] into increasing order */
+qsort(v, last+1, right, comp);
+qsort(v, left, last-1, comp);
+qsort((void**) lineptr, 0, nlines-1,
+qsort((void**) lineptr, 0, nlines-1,
+qsort((void**) lineptr, 0, nlines-1,
+qsort((void**) lineptr, 0, nlines-1,
+rather than
+rather than
+rather than
+rather than
+really a one-dimensional array, each of whose elements is an array. Hence subscripts are
+really a one-dimensional array, each of whose elements is an array. Hence subscripts are
+really a one-dimensional array, each of whose elements is an array. Hence subscripts are
+really a one-dimensional array, each of whose elements is an array. Hence subscripts are
+Recall that the arithmetic value of a logical expression, such as the one for leap , is either zero
+Recall that the arithmetic value of a logical expression, such as the one for leap , is either zero
+Recall that the arithmetic value of a logical expression, such as the one for leap , is either zero
+Recall that the arithmetic value of a logical expression, such as the one for leap , is either zero
+rectangle is a pair of points, and so on.
+rectangular subscript calculation 20 * row +col is used to find the element a[row,col] . For b ,
+rectangular subscript calculation 20 * row +col is used to find the element a[row,col] . For b ,
+rectangular subscript calculation 20 * row +col is used to find the element a[row,col] . For b ,
+rectangular subscript calculation 20 * row +col is used to find the element a[row,col] . For b ,
+refers to the particular member. So we could write instead
+refers to the x coordinate of the pt1 member of screen .
+Regardless of how the <ctype.h> functions are implemented on a given machine, programs
+respectively. The first optional argument is argv[1] and the last is argv[argc-1] ;
+respectively. The first optional argument is argv[1] and the last is argv[argc-1] ;
+respectively. The first optional argument is argv[1] and the last is argv[argc-1] ;
+respectively. The first optional argument is argv[1] and the last is argv[argc-1] ;
+restrictions on dcl . It can only handle a simple data type line char or int . It does not handle
+result.
+return;
+return 0;
+return 0;
+return 0;
+return 0;
+return 0;
+return 0;
+return 0;
+return 0;
+return 0;
+return 0;
+return 0;
+return 0;
+return 0;
+return 0;
+return 0;
+return 0;
+return 0;96
+return 0;96
+return 0;96
+return 0;96
+return -1;
+return -1;
+return 1;
+return 1;
+return 1;
+return 1;
+return 1;
+return 1;
+return c;
+return day;
+return day;
+return day;
+returned; note that this is different from 0, which means that the next input character does not
+return found;
+return found;
+return found;
+return found;
+return found;
+return found;
+return found;
+return found;
+return mid;
+return mid;
+return (n < 1 || n > 12) ? name[0] : name[n];
+return (n < 1 || n > 12) ? name[0] : name[n];
+return (n < 1 || n > 12) ? name[0] : name[n];
+return (n < 1 || n > 12) ? name[0] : name[n];
+return NULL;
+return p1;
+return p.x >= r.pt1.x
+returns a structure of the right type.
+return temp;
+return temp;
+return tokentype = '(';104
+return tokentype = BRACKETS;
+return tokentype = c;
+return tokentype = NAME;
+return tokentype = PARENS;
+return word[0];
+routine numcmp that compares two lines on the basis of numeric value and returns the same
+routine numcmp that compares two lines on the basis of numeric value and returns the same
+routine numcmp that compares two lines on the basis of numeric value and returns the same
+routine numcmp that compares two lines on the basis of numeric value and returns the same
+/* [row][col] */
+/* [row][col] */
+/* [row][col] */
+/* [row][col] */
+(rp->pt1).x
+rp->pt1.x
+(r.pt1).x
+r.pt1.x
+r.pt2.x);
+r.pt2.x);
+r.pt2.y);
+r.pt2.y);
+s
+:%s:
+/* SAFE */
+says that comp is a function returning a pointer to an int , which is very different.
+says that pp is a pointer to a structure of type struct point . If pp points to a point
+scanf("%d/%d/%d", &month, &day, &year);
+scanf("%d", &n);
+scanf("%d", n);
+scanf("%d %s %d", &day, monthname, &year);
+scanf ignores blanks and tabs in its format string. Furthermore, it skips over white space
+scanf reads characters from the standard input, interprets them according to the specification
+scanf stops when it exhausts its format string, or when some input fails to match the control
+s char * ; print characters from the string until a '\0' or the number of characters
+screen.pt1 = makepoint(0,0);
+screen.pt1.x107
+(screen.pt1.y + screen.pt2.y)/2);
+screen.pt2 = makepoint(XMAX, YMAX);
+Second, the elements of keytab are now accessed by pointers. This requires significant
+Second, the program uses the standard library function exit , which terminates program
+section.
+Section 4.1. If you recall, we wired the search pattern deep into the program, an obviously
+Section 4.1. If you recall, we wired the search pattern deep into the program, an obviously
+Section 4.1. If you recall, we wired the search pattern deep into the program, an obviously
+Section 4.1. If you recall, we wired the search pattern deep into the program, an obviously
+Section 5.12 has a further discussion of complicated declarations.
+Section 5.12 has a further discussion of complicated declarations.
+Section 5.12 has a further discussion of complicated declarations.
+Section 5.12 has a further discussion of complicated declarations.
+Section 5.12 has a further discussion of complicated declarations.
+Section 5.12 has a further discussion of complicated declarations.
+Section 5.12 has a further discussion of complicated declarations.
+Section 5.12 has a further discussion of complicated declarations.
+separate entities.
+sets mid to the element halfway between low and high .
+sets m to 2 and d to 29 (February 29th).
+sets m to 2 and d to 29 (February 29th).
+sets m to 2 and d to 29 (February 29th).
+sets m to 2 and d to 29 (February 29th).
+sfsdSince any individual element of v (alias lineptr ) is a character pointer, temp must be also, so
+sfsdSince any individual element of v (alias lineptr ) is a character pointer, temp must be also, so
+sfsdSince any individual element of v (alias lineptr ) is a character pointer, temp must be also, so
+sfsdSince any individual element of v (alias lineptr ) is a character pointer, temp must be also, so
+shorthand. If p is a pointer to a structure, then
+short rather than int appears in the argument list, or by l (letter ell) to indicate that a pointer
+should be stored as in the sorting program of Section 5.6, not in a two-dimensional array of
+should be stored as in the sorting program of Section 5.6, not in a two-dimensional array of
+should be stored as in the sorting program of Section 5.6, not in a two-dimensional array of
+should be stored as in the sorting program of Section 5.6, not in a two-dimensional array of
+Since argv is a pointer to an array of pointers, we can manipulate the pointer rather than index
+Since argv is a pointer to an array of pointers, we can manipulate the pointer rather than index
+Since argv is a pointer to an array of pointers, we can manipulate the pointer rather than index
+Since argv is a pointer to an array of pointers, we can manipulate the pointer rather than index
+Since argv is a pointer to the beginning of the array of argument strings, incrementing it by 1
+Since argv is a pointer to the beginning of the array of argument strings, incrementing it by 1
+Since argv is a pointer to the beginning of the array of argument strings, incrementing it by 1
+Since argv is a pointer to the beginning of the array of argument strings, incrementing it by 1
+since the number of rows is irrelevant, or it could be
+since the number of rows is irrelevant, or it could be
+since the number of rows is irrelevant, or it could be
+since the number of rows is irrelevant, or it could be
+since the number of rows is irrelevant, or it could be
+since the number of rows is irrelevant, or it could be
+since the number of rows is irrelevant, or it could be
+since the number of rows is irrelevant, or it could be
+Since the programs are intended to be illustrative, not bullet-proof, there are significant
+Since the structure keytab contains a constant set of names, it is easiest to make it an external
+Since this latter function computes two values, the month and day arguments will be pointers:
+Since this latter function computes two values, the month and day arguments will be pointers:
+Since this latter function computes two values, the month and day arguments will be pointers:
+Since this latter function computes two values, the month and day arguments will be pointers:
+since we will not return the character count that printf does.
+single character.
+single line, separated by blanks. That is, the command
+single line, separated by blanks. That is, the command
+single line, separated by blanks. That is, the command
+single line, separated by blanks. That is, the command
+size of keytab / size of struct key
+sizeof object
+sizeof (type name)
+sorted with -df for the index category and -n for the page numbers.)
+sorting example. The initializer is a list of character strings; each is assigned to the
+sorting example. The initializer is a list of character strings; each is assigned to the
+sorting example. The initializer is a list of character strings; each is assigned to the
+sorting example. The initializer is a list of character strings; each is assigned to the
+/* sort input lines */
+/* sort input lines */
+/* sort input lines */
+/* sort input lines */
+so you can see it extent.
+specification. It returns as its value the number of successfully matched and assigned input
+specifications in printing ``hello, world'' (12 characters). We have put colons around each field
+specification, the behavior is undefined.
+sprintf formats the arguments in arg1 , arg2 , etc., according to format as before, but places
+sprintf(temp, "(*%s)", out);
+sprintf(temp, "%s %s", token, out);
+started.
+static char daytab[2][13] = {
+static char daytab[2][13] = {
+static char daytab[2][13] = {
+static char *name[] = {
+static char *name[] = {
+static char *name[] = {
+static char *name[] = {
+stderr , and are declared in <stdio.h> . Normally stdin is connected to the keyboard and
+stdout and stderr are connected to the screen, but stdin and stdout may be redirected to
+storage for them. Each element of the array is a structure. This could also be written
+strcat(out, " array");
+strcat(out, " function returning");
+strcat(out, " of");
+strcat(out, " pointer to");
+strcat(out, token);
+strcat(out, token);
+strcpy(datatype, token); /* is the datatype */
+strcpy(name, token);
+strcpy(out, temp);
+strcpy(out, temp);
+strcpy(out, token);
+strcpy(token, "()");
+string:
+string t in the string s , or NULL if there is none. It is declared in <string.h> .
+string t in the string s , or NULL if there is none. It is declared in <string.h> .
+string t in the string s , or NULL if there is none. It is declared in <string.h> .
+string t in the string s , or NULL if there is none. It is declared in <string.h> .
+struct {
+struct {
+struct addpoint(struct point p1, struct point p2)
+struct key {
+struct key {
+struct key {
+struct key *
+struct key *binsearch(char *, struct key *, int);
+struct key *binsearch(char *word, struck key *tab, int n)
+struct key *binsearch(char *word, struct key *tab, int n)
+struct key *high = &tab[n];
+struct key keytab[NKEYS];
+struct key *low = &tab[0];
+struct key *mid;
+struct key *p;
+struct maxpt = { 320, 200 };
+struct point {
+struct point makepoint(int, int);
+struct point makepoint(int x, int y)
+struct point middle;
+struct point origin, *pp;
+struct point *pp;
+struct point pt;
+struct point pt1;
+struct point pt2;
+struct point temp;
+struct rect {
+struct rect canonrect(struct rect r)
+struct rect r, *rp = &r;
+struct rect screen;
+struct rect screen;
+struct rect temp;
+structure may be initialized by a list of constant member values; an automatic structure may
+structure-name.member
+structure, or pass a pointer to it. Each has its good points and bad points.
+structure pointer, as in
+structure, *pp is the structure, and (*pp).x and (*pp).y are the members. To use pp , we
+Structures can be nested. One representation of a rectangle is a pair of points that denote the
+structures. Each keyword is a pair:
+structure. Thus, for instance, if a char is one byte and an int four bytes, the structure
+struct { ... } x, y, z;
+style is sometimes used:
+sum = 0;
+supported by most compilers for many years, but the properties are now precisely defined.
+Suppose we want to handle the more general problem of counting the occurrences of all the
+Suppose we want to read input lines that contain dates of the form130
+suppose we want to read lines that might contain a date in either of the forms above. Then we
+suppression character * , an optional number specifying a maximum field width, an
+swap(v, ++last, i);
+swap(v, left, last);
+swap(v, left, (left + right)/2);
+switch (c) {
+switch (c) {
+switch (c) {
+switch (c) {
+switch (*++p) {
+systems have some limit on the number of files that a program may have open simultaneously,
+table.
+Table 7.1 Basic Printf Conversions
+Table 7.2: Basic Scanf Conversions
+tail -n
+tail -n
+tail -n
+tail -n
+temp.pt1.x =
+temp.pt1.y =
+temp.pt2.x =
+temp.pt2.y =
+temp = v[i];
+temp.x = x;
+temp.y = y;
+terminates normally. (You can close stdin and stdout if they are not needed. They can also
+than arrays of pointers. In this section, we will show some of their properties.
+than arrays of pointers. In this section, we will show some of their properties.
+than arrays of pointers. In this section, we will show some of their properties.
+than arrays of pointers. In this section, we will show some of their properties.
+than to copy the whole structure. Structure pointers are just like pointers to ordinary variables.
+that it returns a pointer to struct key instead of an integer; this is declared both in the113
+that month numbers can run from the natural 1 to 12 instead of 0 to 11. Since space is not at a
+that month numbers can run from the natural 1 to 12 instead of 0 to 11. Since space is not at a
+that month numbers can run from the natural 1 to 12 instead of 0 to 11. Since space is not at a
+that month numbers can run from the natural 1 to 12 instead of 0 to 11. Since space is not at a
+that use them are shielded from knowledge of the character set.
+that was established by fopen , freeing the file pointer for another file. Since most operating
+The abbreviated input syntax lets us reuse the gettoken function. undcl also uses the same
+The array daytab has to be external to both day_of_year and month_day , so they can both
+The array daytab has to be external to both day_of_year and month_day , so they can both
+The array daytab has to be external to both day_of_year and month_day , so they can both
+The array daytab has to be external to both day_of_year and month_day , so they can both
+the array. This next variant is based on incrementing argv , which is a pointer to pointer to
+the array. This next variant is based on incrementing argv , which is a pointer to pointer to
+the array. This next variant is based on incrementing argv , which is a pointer to pointer to
+the array. This next variant is based on incrementing argv , which is a pointer to pointer to
+The call to fopen in a program is
+the chapter, except that the declarations are changed to void * .
+the compiler counts the initializers and fills in the correct number.
+the compiler counts the initializers and fills in the correct number.
+the compiler counts the initializers and fills in the correct number.
+the compiler counts the initializers and fills in the correct number.
+The computation of the middle element can no longer be simply
+The conversion character indicates the interpretation of the input field. The corresponding
+The conversion characters d , i , o , u , and x may be preceded by h to indicate that a pointer to
+The declaration
+The declaration of name , which is an array of character pointers, is the same as lineptr in the
+The declaration of name , which is an array of character pointers, is the same as lineptr in the
+The declaration of name , which is an array of character pointers, is the same as lineptr in the
+The declaration of name , which is an array of character pointers, is the same as lineptr in the
+The declarations should be studied with some care. The fourth parameter of qsort is
+The examples so far have all read the standard input and written the standard output, which are
+The external declaration of keytab need not change, but main and binsearch do need
+The file pointers stdin and stdout are objects of type FILE * . They are constants, however,
+the file to be read or written; the format string is the second argument.
+The first argument of fopen is a character string containing the name of the file. The second
+The first (conventionally called argc , for argument count) is the number of command-line
+The first (conventionally called argc , for argument count) is the number of command-line
+The first (conventionally called argc , for argument count) is the number of command-line
+The first (conventionally called argc , for argument count) is the number of command-line
+The first, dcl , is the more complex. It converts a C declaration into a word description, as in
+The first function, makepoint , will take two integers and return a point structure:
+The first version of echo treats argv as an array of character pointers:
+The first version of echo treats argv as an array of character pointers:
+The first version of echo treats argv as an array of character pointers:
+The first version of echo treats argv as an array of character pointers:
+The format string contains two types of objects: ordinary characters, which are copied to the
+The format string usually contains conversion specifications, which are used to control
+The function
+The function ferror returns non-zero if an error occurred on the stream fp .ords in some input. Since the list ofon actual representation, but assure the compiler that all is well.
+The function gettoken skips blanks and tabs, then finds the next token in the input; a ``token''
+the function name can be hard to see, and to find with a text editor. Accordingly an alternate
+The function scanf is the input analog of printf , providing many of the same conversion
+The function sprintf does the same conversions as printf does, but stores the output in a
+The function tolower is defined in <ctype.h> ; it converts an upper case letter to lower case,
+The heart of the dcl program is a pair of functions, dcl and dirdcl , that parse a declaration
+The initializers are listed in pairs corresponding to the structure members. It would be more
+The initializers for low and high are now pointers to the beginning and just past the end of the
+the input and number conversion.
+the input by repeatedly calling a function getword that fetches one word at a time. Each word
+the input conversion:
+the inversion, and -n (``number'') to request line numbering, then the command
+the inversion, and -n (``number'') to request line numbering, then the command
+the inversion, and -n (``number'') to request line numbering, then the command
+the inversion, and -n (``number'') to request line numbering, then the command
+their type is. It will get confused, and you will get wrong answers, if there are not enough
+The keyword counting program begins with the definition of keytab . The main routine reads
+The keyword struct introduces a structure declaration, which is a list of declarations enclosed
+The list of keywords must be sorted in increasing order in the table.
+The main change made by the ANSI standard is to define structure assignment - structures may
+The model can now be elaborated to illustrate further pointer constructions. Suppose we want
+The model can now be elaborated to illustrate further pointer constructions. Suppose we want
+The model can now be elaborated to illustrate further pointer constructions. Suppose we want
+The model can now be elaborated to illustrate further pointer constructions. Suppose we want
+The most important change is to adjust the algorithm to make sure that it does not generate an
+the most useful features, not an exhaustive list.
+then
+then109
+then a[3][4] and b[3][4] are both syntactically legal references to a single int . But a is a
+then a[3][4] and b[3][4] are both syntactically legal references to a single int . But a is a
+then a[3][4] and b[3][4] are both syntactically legal references to a single int . But a is a
+then a[3][4] and b[3][4] are both syntactically legal references to a single int . But a is a
+the next argument (which must be an int ). For example, to print at most max characters from
+The next step is a set of functions to do arithmetic on points. For instance,
+The next step is to write a program that accesses a file that is not already connected to the
+the next successive argument to printf . Each conversion specification begins with a % and
+The next thing needed is a way to read or write the file once it is open. getc returns the next
+then these four expressions are equivalent:
+The only legal operations on a structure are copying it or assigning to it as a unit, taking its
+the optional argument -n is given, it will sort the input lines numerically instead of
+the optional argument -n is given, it will sort the input lines numerically instead of
+the optional argument -n is given, it will sort the input lines numerically instead of
+the optional argument -n is given, it will sort the input lines numerically instead of
+The output function printf translates internal values to characters. We have used printf
+the output of one program to the input of the next. For example, consider the program lower ,
+The parentheses are necessary in (*pp).x because the precedence of the structure member
+the part of the declaration in braces.
+The program signals errors in two ways. First, the diagnostic output produced by fprintf
+The proper declaration for printf is
+The quantity NKEYS is the number of keywords in keytab . Although we could count this by
+The question is how to arrange for the named files to be read - that is, how to connect the
+There are at least three possible approaches: pass components separately, pass an entire
+there are command-line arguments, they are interpreted as filenames, and processed in order. If
+there are no arguments, the standard input is processed.
+There are several things worthy of note here. First, the declaration of binsearch must indicate
+The rect structure contains two point structures. If we declare screen as
+There is also a function sscanf that reads from a string instead of the standard input:
+There is also another reason for fclose on an output file - it flushes the buffer in which putc
+the result in string instead of the standard output; string must be big enough to receive the
+The rules are simple. Before it can be read or written, a file has to be opened by the library
+the same time, argc is decremented; when it becomes zero, there are no arguments left to
+the same time, argc is decremented; when it becomes zero, there are no arguments left to
+the same time, argc is decremented; when it becomes zero, there are no arguments left to
+the same time, argc is decremented; when it becomes zero, there are no arguments left to
+The scanf statement is
+these examples:
+These functions both need the same information, a table of the number of days in each month
+These functions both need the same information, a table of the number of days in each month
+These functions both need the same information, a table of the number of days in each month
+These functions both need the same information, a table of the number of days in each month
+These properties form the basis of our simplified printf :
+these two calls:
+The simplest illustration is the program echo , which echoes its command-line arguments on a
+The simplest illustration is the program echo , which echoes its command-line arguments on a
+The simplest illustration is the program echo , which echoes its command-line arguments on a
+The simplest illustration is the program echo , which echoes its command-line arguments on a
+the standard header <ctype.h> .
+The standard library function strstr(s,t) returns a pointer to the first occurrence of the
+The standard library function strstr(s,t) returns a pointer to the first occurrence of the
+The standard library function strstr(s,t) returns a pointer to the first occurrence of the
+The standard library function strstr(s,t) returns a pointer to the first occurrence of the
+The structure member operator ``.'' connects the structure name and the member name. To
+The structure operators . and -> , together with () for function calls and [] for subscripts, are
+The swap function, which exchanges two pointers, is identical to what we presented earlier in
+The syntax is similar to previous initializations:
+The syntax is similar to previous initializations:
+The syntax is similar to previous initializations:
+The syntax is similar to previous initializations:
+the test stops the loop at the right time.
+The treatment of errors in cat is not ideal. The trouble is that if one of the files can't be
+The tricky bit is how minprintf walks along the argument list when the list doesn't even have
+The two components can be placed in a structure declared like this:
+The type va_list is used to declare a variable that will refer to each argument in turn; in
+The use of comp in the line
+The variables named in a structure are called members. A structure member or tag and an
+(``thirty days hath September ...''). Since the number of days per month differs for leap years
+(``thirty days hath September ...''). Since the number of days per month differs for leap years
+(``thirty days hath September ...''). Since the number of days per month differs for leap years
+(``thirty days hath September ...''). Since the number of days per month differs for leap years
+This assumes that the rectangle is presented in a standard form where the pt1 coordinates are
+This computation is used in a #define statement to set the value of NKEYS :
+This error is not generally detected at compile time.
+This grammar can be used to parse functions. For instance, consider this declarator:
+This has the advantage that it does not need to be changed if the type changes.
+This is a matter of personal taste; pick the form you like and hold to it.
+this particular case, it is a pointer to objects that are arrays of 13 int s. Thus if the array
+this particular case, it is a pointer to objects that are arrays of 13 int s. Thus if the array
+this particular case, it is a pointer to objects that are arrays of 13 int s. Thus if the array
+this particular case, it is a pointer to objects that are arrays of 13 int s. Thus if the array
+This pointer, called the file pointer, points to a structure that contains information about the
+this program, but it is not complicated. getword fetches the next ``word'' from the input,
+This says that fp is a pointer to a FILE , and fopen returns a pointer to a FILE . Notice that
+This section contains an implementation of a minimal version of printf , to show how to write
+This shows that the format argument of printf can be an expression too.
+This shows that the format argument of printf can be an expression too.
+This shows that the format argument of printf can be an expression too.
+This shows that the format argument of printf can be an expression too.
+three files and providing pointers for them. These files are the standard input, the standard
+time. The size of the array is the size of one entry times the number of entries, so the number
+to
+to allow two optional arguments. One says ``print all the lines except those that match the
+to allow two optional arguments. One says ``print all the lines except those that match the
+to allow two optional arguments. One says ``print all the lines except those that match the
+to allow two optional arguments. One says ``print all the lines except those that match the
+to an array of character strings that contain the arguments, one per string. We customarily use
+to an array of character strings that contain the arguments, one per string. We customarily use
+to an array of character strings that contain the arguments, one per string. We customarily use
+to an array of character strings that contain the arguments, one per string. We customarily use
+to; and *p++->str increments p after accessing whatever str points to.
+to a program when it begins executing. When main is called, it is called with two arguments.
+to a program when it begins executing. When main is called, it is called with two arguments.
+to a program when it begins executing. When main is called, it is called with two arguments.
+to a program when it begins executing. When main is called, it is called with two arguments.
+to determine what type to return and how big a step to take. Finally, va_end does whatever
+together under a single name for convenient handling. (Structures are called ``records'' in some
+To handle this situation better, a second output stream, called stderr , is assigned to a
+To illustrate some of the considerations involved with pointers to and arrays of structures, let
+to keep track of what happens to February during computation. The array and the functions for
+to keep track of what happens to February during computation. The array and the functions for
+to keep track of what happens to February during computation. The array and the functions for
+to keep track of what happens to February during computation. The array and the functions for
+to know the details, because the definitions obtained from <stdio.h> include a structure
+to long appears in the argument list.
+to mean tab stops every n columns, starting at column m. Choose convenient (for the user)
+to mean tab stops every n columns, starting at column m. Choose convenient (for the user)
+to mean tab stops every n columns, starting at column m. Choose convenient (for the user)
+to mean tab stops every n columns, starting at column m. Choose convenient (for the user)
+top and right sides:
+to step through an argument list. The implementation of this header will vary from machine to
+to use two parallel arrays, keyword and keycount , as in
+true two-dimensional array: 200 int -sized locations have been set aside, and the conventional
+true two-dimensional array: 200 int -sized locations have been set aside, and the conventional
+true two-dimensional array: 200 int -sized locations have been set aside, and the conventional
+true two-dimensional array: 200 int -sized locations have been set aside, and the conventional
+type of last token */
+u
+u int ; unsigned decimal number
+/* undcl: convert word descriptions to declarations */
+understand them, and, if necessary, how to create them. One good way to synthesize
+ungetch(c);
+ungetch(c);
+ungetch(*w);
+unsatisfactory arrangement. Following the lead of the UNIX program grep , let us enhance the
+unsatisfactory arrangement. Following the lead of the UNIX program grep , let us enhance the
+unsatisfactory arrangement. Following the lead of the UNIX program grep , let us enhance the
+unsatisfactory arrangement. Following the lead of the UNIX program grep , let us enhance the
+"unsigned", 0,
+unsigned decimal integer; unsigned int *
+used to alter binding: (++p)->len increments p before accessing len , and (p++)->len
+use it. We made it char to illustrate a legitimate use of char for storing small non-character
+use it. We made it char to illustrate a legitimate use of char for storing small non-character
+use it. We made it char to illustrate a legitimate use of char for storing small non-character
+use it. We made it char to illustrate a legitimate use of char for storing small non-character
+users if option arguments can be combined, as in
+users if option arguments can be combined, as in
+users if option arguments can be combined, as in
+users if option arguments can be combined, as in
+/usr/include ).
+us write the keyword-counting program again, this time using pointers instead of array indices.
+v1 = atof(s1);
+v2 = atof(s2);
+va_end(ap); /* clean up when done */
+va_list ap; /* points to each unnamed arg in turn */
+values usually signal abnormal situations. exit calls fclose for each open output file, to flush
+variable and initialize it once and for all when it is defined. The structure initialization is
+varies fastest as elements are accessed in storage order.
+varies fastest as elements are accessed in storage order.
+varies fastest as elements are accessed in storage order.
+varies fastest as elements are accessed in storage order.
+va_start(ap, fmt); /* make ap point to 1st unnamed arg */
+versa. For example, March 1 is the 60th day of a non-leap year, and the 61st day of a leap year.
+versa. For example, March 1 is the 60th day of a non-leap year, and the 61st day of a leap year.
+versa. For example, March 1 is the 60th day of a non-leap year, and the 61st day of a leap year.
+versa. For example, March 1 is the 60th day of a non-leap year, and the 61st day of a leap year.
+v[i] = v[j];
+v[j] = temp;
+void
+void
+"void", 0,
+void (*comp)()
+void *comp()
+void dcl(void)
+void dcl(void);
+void dirdcl(void)
+void dirdcl(void);
+void filecopy(FILE *ifp, FILE *ofp)
+void minprintf(char *fmt, ...)
+void minprintf(char *fmt, ...)
+void month_day(int year, int yearday, int *pmonth, int *pday)
+void month_day(int year, int yearday, int *pmonth, int *pday)
+void month_day(int year, int yearday, int *pmonth, int *pday)
+void * ; pointer (implementation-dependent representation).
+void qsort(void *lineptr[], int left, int right,
+void qsort(void *lineptr[], int left, int right,
+void qsort(void *lineptr[], int left, int right,
+void qsort(void *lineptr[], int left, int right,
+void qsort(void *v[], int left, int right,
+void swap(void *v[],
+void swap(void *v[], int, int);
+void *temp;
+void ungetch(int);
+void ungetch(int);
+void writelines(char *lineptr[], int nlines);
+void writelines(char *lineptr[], int nlines);
+void writelines(char *lineptr[], int nlines);
+void writelines(char *lineptr[], int nlines);
+"volatile", 0,
+*w = '\0';
+*w = '\0';
+way as in other languages. Elements are stored by rows, so the rightmost subscript, or column,
+way as in other languages. Elements are stored by rows, so the rightmost subscript, or column,
+way as in other languages. Elements are stored by rows, so the rightmost subscript, or column,
+way as in other languages. Elements are stored by rows, so the rightmost subscript, or column,
+*w++ = c;
+we can call qsort by casting arguments to void * . The elaborate cast of the function
+we can call qsort by casting arguments to void * . The elaborate cast of the function
+we can call qsort by casting arguments to void * . The elaborate cast of the function
+we can call qsort by casting arguments to void * . The elaborate cast of the function
+we have adopted the convention that a rectangle includes its left and bottom sides but not its
+We have already shown strcmp , which compares two strings. Here is numcmp , which
+We have written qsort so it can process any data type, not just character strings. As indicated
+We have written qsort so it can process any data type, not just character strings. As indicated
+We have written qsort so it can process any data type, not just character strings. As indicated
+We have written qsort so it can process any data type, not just character strings. As indicated
+We will show the function getword in a moment; for now it suffices to say that each call to
+When a C program is started, the operating system environment is responsible for opening
+where a word is either a string of letters and digits beginning with a letter, or a single non-
+where the declaration ... means that the number and types of these arguments may vary. The
+which converts its input to lower case:
+which says that comp is a pointer to a function that has two void * arguments and returns an
+which says that the parameter is a pointer to an array of 13 integers. The parentheses are
+which says that the parameter is a pointer to an array of 13 integers. The parentheses are
+which says that the parameter is a pointer to an array of 13 integers. The parentheses are
+which says that the parameter is a pointer to an array of 13 integers. The parentheses are
+which says that the parameter is a pointer to an array of 13 integers. The parentheses are
+which says that the parameter is a pointer to an array of 13 integers. The parentheses are
+which says that the parameter is a pointer to an array of 13 integers. The parentheses are
+which says that the parameter is a pointer to an array of 13 integers. The parentheses are
+"while", 0
+while (--argc > 0)
+while (--argc > 0)
+while (--argc > 0)
+while (--argc > 0)
+while (--argc > 0)
+while(--argc > 0)
+while (--argc > 0 && (*++argv)[0] == '-')
+while (--argc > 0 && (*++argv)[0] == '-')
+while (--argc > 0 && (*++argv)[0] == '-')
+while (--argc > 0 && (*++argv)[0] == '-')
+while (c = *++argv[0])
+while (c = *++argv[0])
+while (c = *++argv[0])
+while (c = *++argv[0])
+while ((c = getchar()) != EOF)
+while ((c = getch()) == ' ' || c == '\t')
+while ((c = getc(ifp)) != EOF)
+while (getline(line, MAXLINE) > 0)
+while (getline(line, MAXLINE) > 0)
+while (getline(line, MAXLINE) > 0)
+while (getline(line, MAXLINE) > 0)
+while (getline(line, MAXLINE) > 0) {
+while (getline(line, MAXLINE) > 0) {
+while (getline(line, MAXLINE) > 0) {
+while (getline(line, MAXLINE) > 0) {
+while (getline(line, sizeof(line)) > 0) {
+while (gettoken() != EOF) {
+while (gettoken() != EOF) {
+while (getword(word, MAXWORD) != EOF)
+while (getword(word, MAXWORD) != EOF)
+while (isspace(c = getch()))
+while (low <= high) {
+while (low < high) {
+while (ns-- > 0)
+while (scanf("%lf", &v) == 1)
+while ((type = gettoken()) != '\n')
+while ((type=gettoken()) == PARENS || type == BRACKETS)103
+white space character or until the field width, is specified, is exhausted. This implies that scanf
+white space character. The function value is the first character of the word, or EOF for end of
+whitespace, isalpha to identify letters, and isalnum to identify letters and digits; all are from
+will illustrate this by modifying the sorting procedure written earlier in this chapter so that if
+will illustrate this by modifying the sorting procedure written earlier in this chapter so that if
+will illustrate this by modifying the sorting procedure written earlier in this chapter so that if
+will illustrate this by modifying the sorting procedure written earlier in this chapter so that if
+will print each line that doesn't match the pattern, preceded by its line number.
+will print each line that doesn't match the pattern, preceded by its line number.
+will print each line that doesn't match the pattern, preceded by its line number.
+will print each line that doesn't match the pattern, preceded by its line number.
+will read across boundaries to find its input, since newlines are white space. (White space
+will write the standard output to outfile instead. If pipes are supported,
+with an optional size.
+Within main , return expr is equivalent to exit (expr). exit has the advantage that it can be
+without them,
+With these preliminaries out of the way, we are now in a position to write the program cat to
+with those for a two-dimensional array:
+with those for a two-dimensional array:
+with those for a two-dimensional array:
+with those for a two-dimensional array:
+with two pointer arguments. The generic pointer type void * is used for the pointer
+with two pointer arguments. The generic pointer type void * is used for the pointer
+with two pointer arguments. The generic pointer type void * is used for the pointer
+with two pointer arguments. The generic pointer type void * is used for the pointer
+word description and back again. The word description reads left to right.
+work correctly.
+works well for simple cases, but it can be confusing for the harder ones, because declarations
+wprog >outfile
+writelines(lineptr, nlines);
+writelines(lineptr, nlines);
+writelines(lineptr, nlines);
+writelines(lineptr, nlines);
+written as
+written as
+written as
+written as
+/* WRONG */
+/* WRONG */
+/* WRONG */
+/* WRONG */
+/* WRONG */
+/* WRONG */
+x
+x: array[3] of pointer to function returning
+x () * [] * () char
+x: function returning pointer to array[] of
+x,X int ; unsigned hexadecimal number (without a leading 0x or 0X ), using abcdef or
+yearday -= daytab[leap][i];
+yearday -= daytab[leap][i];
+yearday -= daytab[leap][i];
+yield an integer equal to the size of the specified object or type in bytes. (Strictly, sizeof
