@@ -21,6 +21,7 @@ main()
         printf("error: input too big to sort\n");
         return 1;
     }
+    
 }
 
 #define MAXLEN 1000             /* max length of any input line */
