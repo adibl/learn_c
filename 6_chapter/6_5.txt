@@ -1,0 +1,1 @@
+both 6_5 and 6_6 deleted with rm
